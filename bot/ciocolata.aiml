@@ -1,0 +1,537 @@
+<aiml>
+<category>
+      <pattern>ciocolata</pattern>
+      <that>LPAREN "CIOCOLATA", "VANILIE", "CAPSUNI" RPAREN</that>
+      <template><think><set name="topic">ciocolata</set></think>Ce ingredient secundar doresti sa aiba?("ou", "fructe", "faina")</template>
+</category>
+      <topic name = "ciocolata">
+       <category>
+             <pattern>ou</pattern>
+             <that> LPAREN "OU", "FRUCTE", "FAINA" RPAREN</that>
+             <template>
+<random>
+<li>Ingrediente
+6 porții
+pentru blat :
+- 8 oua
+- 10 linguri zahar
+- 12 linguri faina
+- 8 linguri apa fierbinte
+- 1/2 plic praf de copt
+
+crema :
+- 500 ml lapte
+- 3 plicuri zahar vanilat
+- 6 linguri faina
+- 200 g zahar
+- 250 g unt
+
+Alte ingrediente :
+- 2 plicuri Nuca cocos pentru ornat
+- ciocolata de menaj pentru glazura
+Preparare
+Etapa 1
+Blat:
+Cele 8 galbenusuri impreuna cu 10 linguri de zahar si 8 linguri de apa fierbinte le mixam pana devine spuma. Separat batem albusurile de la cele 8 oua ,spuma cu un praf de sare .Amestecam cu grija albusul batut cu galbenusurile spumate.
+Etapa 2
+In cele 12 linguri de faina adaugam si 1/2 de plic praf de copt apoi treptat o cernem peste compozitia de mai sus amestecand usor de jos in sus pana se incorporeaza faina .
+Etapa 3
+Turnam compozitia in tava tapetata cu hartie de copt si o dam la cuptorul deja preincalzit pana aceasta este coapta . Dupa ce blatul de piscot e copt il scoatem si il rasturnam pe un prosop curat unde il vom lasa sa raceasca complet , dupa care il vom taia in doua.
+Etapa 4
+Atat din partea de sus cat si din partea de jos al piscotului vom decupa cu un paharel cerculete ,in asa fel incat sa fie egale la numar.
+Etapa 5
+crema:
+Intr-o cratita punem 6 linguri faina,200 g zahar si treptat adaugam si cei 500 ml lapte rece. Amestecam sa nu faca gogoloase si apoi punem compozitia la fiert pana aceasta se ingroasa.
+Etapa 6
+Se ia de pe foc si se lasa la racit apoi adaugam la ea cei 250 gr unt ,3 plicuri zahar vanilat si spumam compozitia pana devine omogena.
+Etapa 7
+Asamblare :
+De acum avem cerculetele decupate si crema e gata pregatita. Luam cate 2 cerculete si o parte o ungem cu crema .Cealalta parte o punem peste partea unsa si le lipim .Pe exterior o ungem din nou cu crema avand grija ca capetele sa nu le manjim si o tavalim prin cocos razuit.</li>
+<li>Ingrediente
+8 porții
+Blat:
+- 8 oua
+- 6 lg faina
+- 8 lg zahar
+- 2 lg cacao
+- 50 gr ciocolata rasa
+- esenta de rom
+
+Crema 1:
+- 200 ml frisca
+- 100 gr ciocolata amaruie
+- 100 gr ciocolata cu lapte
+- esenta rom
+
+Crema 2:
+-200 ml frisca
+- 200 gr ciocolata alba
+- esenta vanilie
+
+Sirop:
+-6 lg miere de albime
+- 400 ml apa
+- 1 lg ness
+- 50 ml whiskey
+Glazura
+- 100 gr ciocolata alba
+- 200 gr ciocolata amaruie
+- 200 ml frisca
+- 50 gr unt
+
+Decor:
+- frunze de ciocolata
+- bomboane trufe
+- ghinde din martipan
+Preparare
+Etapa 1
+Blatul:
+Se separa albusurile de galbenusuri.Albusurile se bat spuma cu 3/4 din zahar iar galbenusurile cu restul impreuna cu esenta de rom.Se unesc cele doua compozitii ,se cerne deasupra faina amestecata cu cacao se adauga ciocolata rasa si se amesteca lejer de sus in jos pana se incorporeaza bine.
+Etapa 2
+Se toarna intr-o tava rotunda(26 cm) tapetata cu hartie de copt si se coace la foc potrivit.Dupa ce s-a racit se scoate din forma si se taie in 3 foi .
+Etapa 3
+Crema 1:
+Ciocolata rupta in bucati mici se amesteca cu frisca lichida la foc mic pana ce ciocolata se topeste formand o compozitie omogena. Se da la rece pentru cateva ore(5-6) dupa care se spumeaza cu ajutorul mixerului.Obtinem o crema fina pe care o aromatizam cu ce esenta de rom.
+Etapa 4
+Crema 2:
+Procedam la fel ca la crema 1 numai ca aici folosim ciocolata alba si esenta de vanilie.
+Etapa 5
+Sirop:
+Mierea amestecata cu apa se fierbe .Adaugam nessul dupa care dam la rece .Se aromatizeaza cu 50 ml whiskey.
+Etapa 6
+Glazura:
+Ciocolata frisca si untul se amesteca intr-o cratita pe baie de apa pana obtinem o compozitie omogena destul de fluida. Glazura o preparati in momentul cand trebuie sa glasati tortul.
+Etapa 7
+Asamblare:
+Pe un platou se aseaza prima foaie de blat o insiropam cu siropul racit dupa care intindem uniform crema de ciocolata neagra .Asezam si cea de-a doua foaie de blat, o insiropam deasemeni,dupa care intindem crema de ciocolata alba.Terminam cu cea de-a treia foaie de blat insiropata. Nivelam fata si lateralele tortului cu putina crema si il introducem la frigider pentru 3 ore.
+Se scoate,se glaseaza in glazura de ciocolata si se decoreaza dupa imaginatia fiecaruia.</li>
+<li>Ingrediente
+10 porții
+Blat:
+- 9 oua
+- 9 lg zahar
+- 7 lg faina
+- 2 lg cacao
+- o esenta rom
+
+Stratul 1:
+- 300 g zahar
+- 5 mere
+- 5 pere
+- 1/2 gelatina
+- esenta rom
+
+Crema :
+- 400 ml frisca
+- 3 lg ness
+- 5 galbenusuri
+- 250 g mascarpone
+- 200 g zahar
+- 100 g ciocolata amaruie
+- esenta de vanilie
+- 1/2 plic gelatina
+
+Glazura:
+- 200 g ciocolata alba
+- 200 g ciocolata amaruie
+- 150 ml frisca
+- 50 g unt
+
+Decor:
+- frunze de ciocolata
+- ghinde din martipan si bomboane cu alune
+- bomboane trufe
+
+Sirop de rom:
+- zahar
+- apa
+- esenta de rom
+Preparare
+Etapa 1
+Blat:
+Se separa albusurile de galbenusuri.Albusurile se bat spuma cu 3/4 din zahar iar galbenusurile cu restul impreuna cu esenta de rom.Se unesc cele doua compozitii ,se cerne deasupra faina amestecata cu cacao si se amesteca lejer de sus in jos pana se incorporeaza toata faina.Se toarna intr-o tava dreptunghiulara tapetata cu hartie de copt si se coace la foc potrivit.Dupa ce s-a racit se scoate din forma si se taie in doua foi egale.
+Etapa 2
+Stratul 1:
+Fructele curatate de coaja se pun peste zaharul caramelizat,adaugam cam 100 ml apa si le fierbem impreuna pana ce scade o parte din sirop si fructele se inmoaie usor.Dam deoparte adaugam gelatina care am hidratato in putina apa rece amestecam pana se dizolva complet.Lasam sa se racoreasca bine,arromatizam cu rom si turnam peste prima foaie pe care am asezat-o intr-o forma detasabila nu inainte de a o insiropa cu sirop de rom.
+Etapa 3
+Crema 1:
+Galbenusurile se amesteca cu zaharul si se fierbe pe baie de apa pana se spumeaza .Adaugam nessul dizolvat in putina apa calda dupa care adaugam gelatina hidratata in putina apa rece,dam deoparte si amestecam pana ce se dizolva.Dupa ce amestecul s-a racorit adaugam branza mascarpone si mixam pana ce se incorporeaza complet Turnam compozitia obtinuta peste frisca batuta ,adaugam si ciocolata maruntita,aromatizam cu esenta de vanilie si turnam totul peste stratul de fructe.
+Etapa 4
+Asezam si cea de-a doua foaie o insiropam si dam totul la rece pentru cateva ore.Se scoate se imbraca in frisca batuta dupa care glasam in glazura de ciocolata pe care am preparat-o amestecand ingredientele pe baie de apa.
+Am decorat cu frunze de ciocolata,ghinde din martipan si bomboane trufe. Il puteti decora dupa imaginatie.</li>
+<li>Ingrediente
+8 porții
+Blat:
+- 8 oua
+- 8 lg zahar
+- 4 lg apa
+- 6 lg faina
+- 2 lg cacao
+- 4 lg nuca macinata
+- esenta de rom
+
+Crema 1:
+- 2 galbenusuri
+- 100gr zahar
+- 125 gr baranza mascarpone
+- 100 gr nuca prajita macinata
+- 200 ml frisca
+- 2 lg ness
+- 1/2 plic gelatina
+
+Crema 2:
+- 2 galbenusuri
+- 100 g zahar
+- 125 g mascarpone
+- 100 g ciocolata alba
+- 200 ml frisca
+- 1/2 plic gelatina
+- esenta vanilie
+
+Glazura:
+- 2 ciocolate albe
+- 2 ciocolate negre
+- 50 gr unt
+- 150 ml frisca
+
+Sirop:
+- 200 g zahar
+- 350 ml apa
+- esenta de rom
+
+Decor:
+- miez de nuca glasat in zahar ars
+- ciocolata rasa
+Preparare
+Etapa 1
+Blat:
+Se separa albusurile de galbenusuri,albusurile se bat spuna cu 5 lg de zahar iar galbenusurile cu restul de zahar si esenta de rom.Se amesteca lejer cele doua compozitii se adauga apa ,nuca macinata si se incorporeaza usor.La final se adauga si faina amestecata cu cacao.Compozitia se toarna intr-o forma de tort tapetata cu hartie de copt si se coace la foc potrivit.
+Etapa 2
+Crema 1:
+Galbenusurile si zaharul se amesteca bine si se fierb pe baie de apa pana se spumeaza .Adaugam gelatina hidratata in 50 ml apa ,cele doua linguri de ness si amestecam pana ce se dizolva complet .Se da la rece .Branza mascarpone de amesteca cu ,compozitia fiarta si racita se adauga peste frisca batuta spuma tot atunci adaugam si nuca macinata .
+Etapa 3
+Crema 2:
+Galbenusurile impreuna cu zaharul se fierb pe baie de apa pana se spumeaza .Adaugam gelatina hidratata in 50 ml apa si amestecam pana ce se dizolva complet si se da la rece .Branza mascarpone se amesteca cu esenta de vanilie sicompozitia fiarta si racita se adauga peste frisca batuta spuma tot atunci adaugam si ciocolata maruntita.
+Etapa 4
+Glazura:
+Ciocolata ,frisca si untul se amesteca la foc mic pana se formeaza o compozitie omogena.
+Etapa 5
+Asamblare:
+Blatul de tort racit se taie in 3 foi.In forma in care am copt blatul asezam prima foaie o insiropam cu siropul fiert si racit aromatizat cu rom punem crema 1 asezam si ce-a de-a doua foaie o insiropam si pe aceasta dupa care turnam crema doi.Punem si ce-a de-a treia foaie de blat o insiropam si dam tortul la rece pentru cateva ore.Se rastoarna pe un platou si se glaseaza cu glazura de ciocolata.
+Etapa 6
+Decoram pe margini cu miez de nuca glazurat cu zahar ars si ciocolata rasa .</li>
+<li>Ingrediente
+2 porții
+- 20 oua
+- 200 g. zahar
+- 2 pliculete zahar vanilat
+- 400 ml. rom alb
+- 4-5 linguri mari de lapte condensat, indulcit(din comert sau facut in casa)
+- 100 g. ciocolata de lapte
+- 2 lingurite de cafea instant (nes)
+Preparare
+Etapa 1
+Separati galbenusurile de albusuri:Puneti toate galbenusurile intr-un castron mare:Amestecati-le cu zaharul, folosind mixerul, pana cand acesta se topeste.
+Etapa 2
+Albusurile le puteti folositi la retetele urmatoare: Chec cu albusuri, Prajitura din albus si neaparat alcazale, care sint absolut delicioase!!!sau mai usor (daca nu aveti timp de prajiturit )le puneti frumos in pungi si le azvarliti in congelator.
+Etapa 3
+Adaugati, putin cate putin, romul:si laptele condensat indulcit, amestecand mereu.
+Mie, laptele condensat, mi l-a adus mami din Danemarca si culmea ironiei a fost ca dupa ce pus si mana pe o cutie cu lapte condensat, nu putut sa-l gust, pentru ca eram inca in post
+Data viitoare scriu pe hartie, cu litere mari, gigantice, sa imi ia macar vreo 2 cutiute.
+Etapa 4
+Compozitia rezultata se imparte apoi in doua; intr-unul din boluri adaugati zaharul vanilat, rezultand astfel lichiorul de oua, de vanilie.Dizolvati cafeaua instant in doua linguri de apa fierbinte.
+Etapa 5
+Topiti ciocolata si adaugati-o ciocolatei.Amestecati crema de ciocolata cu 3 linguri de rom, apoi combinati totul cu cealalta jumatate de crema de ou:Veti obtine lichiorul de oua, de ciocolata:Ambele compozitii, taaare apetisante.
+Etapa 6
+Cu ajutorul unei palnii, umpleti doua sticle cu cele doua feluri de lichior si puneti dop.
+Lichiorul tine astfel cca. 7-8 saptamani.</li>
+
+</random>
+</template>
+</category>
+<category>
+      <pattern>fructe</pattern>
+      <that> LPAREN "OU", "FRUCTE", "FAINA" RPAREN</that>
+      <template>
+<random>
+<li>Ingrediente
+8 porții
+Ai nevoie de o forma cu peretii detasabili, cu diametrul de 22/23 cm si de:
+Ingrediente pentru blat (foto 1)
+1. 6 oua, separate albusurile de galbenusuri
+2. 125 gr faina
+3. 150 gr unt moale
+4. 150 gr zahar pudra
+5. 140 gr ciocolata amaruie (am folosit Schogetten)
+6. un plic zahar vanilat
+7. un varf de cutit de praf de copt
+8. un strop de unt si faina pentru tapetatul formei
+
+Ingrediente pentru umplutura:
+1. 500 ml smantana pentru frisca
+2. un plic zahar vanilat
+3. 2 fructe de kiwi taiate felii
+
+Decor:
+1. 2 fructe de kiwi
+2. 3 felii ananas din compot
+3. cateva cirese
+4. cateva capsuni
+5. 2 felii de portocala
+6. 350 gr ciocolata neagra de menaj
+7. un bat de frigaruie
+Preparare
+Desigur ca cine gateste cu aparatul foto atarnat de gat cunoaste importanta luminii naturale si experimenteaza, dupa caz, frustrarea de a avea o bucatarie prost iluminata. Trecand, cu bombaneala aferenta, peste acest inconvenient (major!), mi-am facut curaj sa pun si cateva fotografii cu pasi din timpul prepararii. Cu timpul, sper ca voi reusi sa sintetizez mai bine in imagini, aceasta este o prima tentativa, primiti-o cu indulgenta :) .
+
+Un tort aniversar, facut cu tot amoriul, pentru sotul meu.
+
+
+Fundul tavii il tapetezi cu un cerc taiat din hartie de copt iar peretii ii ungi cu putin unt si ii tapetezi cu faina. Preincalzesti cuptorul la 160 de grade.
+Separi albusurile de galbenusuri, albusurile le bati spuma si le pui la frigider. Ciocolata o topesti la bain marie cu un strop din unt, apoi intr-un vas amesteci ciocolata topita, untul, zaharul pudra, zaharul vanilat, galbenusurile. Faina o amesteci cu praful de copt si o adaugi in vas (foto 2), mixezi bine (foto 3) apoi adaugi spuma de albusuri cu ajutorul unei spatule, incorporand-o cu miscari de jos in sus (foto 4), compozitia devenind pufoasa, aerata. Dai la cuptor pentru 60 de min, pana cand o scobitoare infipta in mijloc iese curata. Cand e gata, lasi blatul cateva minute in forma, apoi il scoti, il lasi sa se raceasca pe un gratar si apoi il tai pe din doua.
+
+Pregatesti fructele (foto 5) . Bati frisca cu zaharul vanilat si o imparti in doua. Cu jumatate ungi primul blat, asezi rondelele de la doua fructe kiwi (foto 6), mai ungi cu putina frisca, acoperi cu al doilea blat si acoperi intreg tortul cu frisca (foto 7).
+Am batut cei 500 de ml de frisca si am ramas cu un bol mic in plus, de pus la cafea :), deci cred ca strict pentru tort si 400 de ml sunt de ajuns.. Ornezi tortul dupa inspiratie si il dai la frigider.
+
+Intre timp te ocupi de "gardut" astfel: topesti 350 gr ciocolata de menaj la bain-marie. Pe o bucata de hartie de copt intinzi o foaie de ciocolata ceva mai mare decat o coala A4. Alaturi asezi un bat de frigaruie pe o hartie de copt si torni si peste el un dreptunghi de ciocolata (cel pe care vei scrie urarile).
+
+Imediat cum ciocolata devine mata (la 4-5 min dupa ce ai intins-o) trasezi cu un cutit incins in foc (eu am aprins alaturi o lumanare prin care am tot trecut cutitul) taieturi pe verticala si orizontala. Lasi 1-2 ore sa se intareasca ciocolata si apoi decorezi torul, il prinzi cu o panglica si il lasi la frigider pana cand il servesti. Pofta buna!</li>
+<li>Ingrediente
+10 porții
+Blat:
+- 9 oua
+- 9 lg zahar
+- 7 lg faina
+- 2 lg cacao
+- o esenta rom
+
+Stratul 1:
+- 300 g zahar
+- 5 mere
+- 5 pere
+- 1/2 gelatina
+- esenta rom
+
+Crema :
+- 400 ml frisca
+- 3 lg ness
+- 5 galbenusuri
+- 250 g mascarpone
+- 200 g zahar
+- 100 g ciocolata amaruie
+- esenta de vanilie
+- 1/2 plic gelatina
+
+Glazura:
+- 200 g ciocolata alba
+- 200 g ciocolata amaruie
+- 150 ml frisca
+- 50 g unt
+
+Decor:
+- frunze de ciocolata
+- ghinde din martipan si bomboane cu alune
+- bomboane trufe
+
+Sirop de rom:
+- zahar
+- apa
+- esenta de rom
+Preparare
+Etapa 1
+Blat:
+Se separa albusurile de galbenusuri.Albusurile se bat spuma cu 3/4 din zahar iar galbenusurile cu restul impreuna cu esenta de rom.Se unesc cele doua compozitii ,se cerne deasupra faina amestecata cu cacao si se amesteca lejer de sus in jos pana se incorporeaza toata faina.Se toarna intr-o tava dreptunghiulara tapetata cu hartie de copt si se coace la foc potrivit.Dupa ce s-a racit se scoate din forma si se taie in doua foi egale.
+Etapa 2
+Stratul 1:
+Fructele curatate de coaja se pun peste zaharul caramelizat,adaugam cam 100 ml apa si le fierbem impreuna pana ce scade o parte din sirop si fructele se inmoaie usor.Dam deoparte adaugam gelatina care am hidratato in putina apa rece amestecam pana se dizolva complet.Lasam sa se racoreasca bine,arromatizam cu rom si turnam peste prima foaie pe care am asezat-o intr-o forma detasabila nu inainte de a o insiropa cu sirop de rom.
+Etapa 3
+Crema 1:
+Galbenusurile se amesteca cu zaharul si se fierbe pe baie de apa pana se spumeaza .Adaugam nessul dizolvat in putina apa calda dupa care adaugam gelatina hidratata in putina apa rece,dam deoparte si amestecam pana ce se dizolva.Dupa ce amestecul s-a racorit adaugam branza mascarpone si mixam pana ce se incorporeaza complet Turnam compozitia obtinuta peste frisca batuta ,adaugam si ciocolata maruntita,aromatizam cu esenta de vanilie si turnam totul peste stratul de fructe.
+Etapa 4
+Asezam si cea de-a doua foaie o insiropam si dam totul la rece pentru cateva ore.Se scoate se imbraca in frisca batuta dupa care glasam in glazura de ciocolata pe care am preparat-o amestecand ingredientele pe baie de apa.
+Am decorat cu frunze de ciocolata,ghinde din martipan si bomboane trufe. Il puteti decora dupa imaginatie.</li>
+<li>Ingrediente
+8 porții
+- 250 g faina, 250 g zahar,
+- 200 g unt, 4 oua,
+- 6 linguri cacao,
+- 250 g iaurt natural,
+- un praf de copt, o priza de sare,
+
+pentru crema:
+- 250 g crema de branza
+- 200 ml iaurt cu fructe
+- 5 linguri de zahar + 2 plicuri zahar vanilat
+- 200-250 g fructe de padure
+- 200 ml frisca hulala
+- 2 plicuri gelatina
+- 200 g ciocolata amaruie
+Preparare
+Etapa 1
+A marit ingredientele de la Negresa ca sa se potriveasca formei mele. Se bat ouale cu mixerul, se adauga pe rand sarea, zaharul, untul moale, la temperatura camerei, cacaua si la urma iaurtul altermand cu faina.
+Etapa 2
+Se toarna in tava de tort (26) si se da la cuptor pentru 30-40 de minute. Se incearca cu scobitoarea cand este gata, ca are alta consistenta fata de blatul clasic.
+Etapa 3
+In sucul rezultat de la fructele decongelate, am pus la inmuiat cele doua plicuri de geletina. Fructele le-am mixat si le-am strecurat, inlaturand samburi si folosind doar pulpa. Crema de branza se freaca cu zaharul si plicurile de vanilie. Se incorporeaza pulpa de fructe.
+Etapa 4
+In alt bol se bate frisca, care se rastoarna apoi peste crema de branza. La sfarsit se incorporeaza gelatina incalzita, dar nu fiarta. Crema rezultata se rastoarma peste blatul cacao. Se da la frigider cateva ore. Dupa ce s-a intarit crema, am topit o ciocolata si am decorat tortul.</li>
+<li>Ingrediente
+2 porții
+Pentru sos:
+- 50 g ciocolata cu lapte
+- 50 ml lapte
+- un cub de unt
+- 1 bomboana Pocket Coffee sau 2 linguri de espresso
+
+Fructe:
+- 2 fructe de kiwi
+- 1 portocala mare si dulce
+- 1 banana
+- cateva rondele de ananas
+Preparare
+Fructele le taiem cubulete si le asezam pe un platou. Sosul: topim ciocolata si bomboana, adaugam laptele si untul. Fierbem cca. 5 minute pana se ingroasa sosul. Turnam sosul de ciocolata in vasul de fondue.</li>
+<li>Ingrediente
+4 porții
+- 560 g fructe de padure, insemnand: mure, afine, coacaze rosii si capsuni (sau zmeura)
+- 400 ml frisca
+- 200 g ciocolata alba
+- 1 pastaie de vanilie
+Preparare
+Etapa 1
+Frisca impreuna cu ciocolata alba si pastaia de vanilie (nu uitati sa extrageti mai intai pulpa din ea) se pun la foc mic pana cand se topeste ciocolata. Atentie sa nu dea in clocot. Se da vasul deoparte pentru a se raci.
+Etapa 2
+Intre timp spalam fructele, le curatam de codite si le pasam bine de tot la blender.
+Etapa 3
+Strecuram piureul de fructe rezultat printr-o sita mai deasa
+Etapa 4
+Amestecam crema alba cu piureul strecurat si turnam totul intr-o forma de metal. Acoperim cu folie de plastic si dam la congelator pana ingheata.</li>
+
+</random>
+</template>
+</category>
+
+<category>
+      <pattern>faina</pattern>
+      <that> LPAREN "OU", "FRUCTE", "FAINA" RPAREN</that>
+      <template>
+<random>
+<li>Ingrediente
+10 porții
+pentru aluat:
+- 250 g faina,
+- 200 g unt,
+- 150 g zahar pudra,
+- un ou,
+- un varf de cutit de bicarbonat,
+- un plic zahar vanilat,
+- coaja de lamaie.
+
+Pentru crema:
+- 100 g ciocolata amaruie,
+- 150 ml frisca lichida.
+
+Pentru glazura:
+- 3 linguri de cacao,
+- 20 ml apa,
+- 4 linguri zahar,
+- 100g ciocolata alba.-
+Preparare
+Etapa 1
+Intr-un castron se pune untul, zaharul pudra, coaja rasa de la o lamaie, zaharul vanilat, un ou, faina si bicarbonatul.
+Etapa 2
+Se amesteca bine pana cand se formeaza un aluat. Se infasoara intr-o folie alimemntara si se da la rece timp de 90 de minute.
+Etapa 3
+Se intinde o foaie sau doua de aproximativ un cm si se decupeaza cu o forma rotunda sau cu un pahar mic.
+Etapa 4
+Se tapeteaza o tava cu hartie de copt si se aseaza fursecurile. Se dau la foc potrivit aproximativ 15-20 de minute.
+Etapa 5
+Intre timp se prepara crema ganache. Se topeste ciocolata-eu am topit-o pe bain marie- dupa care se adauga frisca lichida si se amesteca bine. Se lasa sa se raceasca, dupa care se mixeaza.
+Etapa 6
+Dupa ce s-au copt fursecurile, se lasa sa se raceasca si se ung pe o parte cu crema de ciocolata.
+Etapa 7
+Se lipesc cate doua si se face glazura, amestecand toate ingredientele-in afara de ciocolata alba- pe foc. Cand s-a topit zaharul, turnam glazura peste fursecuri. Dupa ce aceasta s-a racit, topim ciocolata alba si trasam dungi pe jumatatea unui fursec.</li>
+<li>Ingrediente
+4 porții
+- 2 oua
+- 10 linguri apa
+- 200 ml ulei
+- 120 g zahar
+- 1 lingurita rasa praf de copt
+- coaja de lamaie
+- esenta de vanilie si de migdale
+- 3 linguri nuca de cocos
+- 320 g faina
+- 200 g ciocolata
+Preparare
+Etapa 1
+Amestecam ouale cu apa, la care adugam zaharul, esentele de vanilie si coaja de lamaie, mixam foarte bine. In timp ce mixam adaugam uleiul. Apoi punem faina amestecata cu praful de copt si cele 3 linguri de nuca de cocos.
+Etapa 2
+Aluatul obtinut nu este nici lichid, dar nici tare, cat sa stea pe lingura. Cu mainile unse cu putin ulei, formam din aluat bilute de aproximativ 3 cm diametru, pe care le asezam la distanta pe hartia de copt, fiindca fursecurile vor creste.
+Etapa 3
+Le coacem in cuptorul preincalzit la foc mic pana devin aurii la suprafata. Cand fursecurile s-au racit se pun la topit, in baie de aburi, 200 g ciocolata cu 3 linguri de ulei si se glazureaza fursecurile.
+Etapa 4
+Fursecuri glazurate este o reteta ce a fost publicata pe siteul Retetele Bunicii .ro
+</li>
+<li>Ingrediente
+4 porții
+- 1 kg faina
+- 300 ml lapte
+- 50 g drojdie
+- 150 g zahar
+- 3 oua
+- 200 ml ulei
+- 1 pachet praf de copt
+- sare
+- Umplutura de mac
+- Umplutura de alune
+- Umplutura de ciocolata si migdale
+Preparare
+Etapa 1
+Din lapte, drojdie, 50 g zahar si 4 lg de faina am facut o maia pe care am lasat-o sa creasca, dupa aceea am adaugat ouale batute cu restul de zahar, sare si uleiul, faina amestecata cu praful de copt.Se framanta pana obtinem un aluat de o consistenta potrivita.
+Etapa 2
+Se lasa aluatul la crescut dupa care se imparte in 10 buc egale le rotunjim si le lasam cam 15 min din nou la crescut.Se intinde fiecare bucata, se taie in patru,punem umplutura si rulam.
+Etapa 3
+Umplutura:
+Dupa cum se vede si in imagine umplutura de mac si alune este cumparata si se prepara dupa instrunctiunile de pe plic.
+Etapa 4
+Umplutura de ciocolata cu migdale am preparat-o astfel:am topit ciocolata apoi am adaugat migdale macinate.Se da la rece sa se intareasca dupa care se umplu cornurile cu ea.</li>
+<li>ngrediente
+4 porții
+- 1 cup / 200 g unt
+- 2/3 cup / 136 g cup zahar granulat
+- 1 cup / 150 g faina
+- 1/2 cup / 55 g faina de malai
+- 1/3 cup / 30 g cacao (recomand Schimdt)
+- 1 1/2 lingurita praf de copt
+- 1/4 lingurita sare
+- 1 lingura plina varf cu coaja de portocala razuita fin
+- crema ganache din ciocolata alba folosind 200 g -ciocolata
+– 100 g frisca dupa reteta de aici
+Preparare
+Etapa 1
+Mixati untul cu zaharul pana obtineti o pasta deschisa la culoare.In alt vas amestecati toate ingredientele uscate impreuna cu coaja de portocala. Adaugati in trei etape amestecul cu faina la crema de unt pana obtineti un aluat moale.
+Etapa 2
+Din cauza cantitatii mari de unt o sa rezulte un aluat foarte moale, de aceea trebuie sa il inveliti in film alimentar si dati la frigider cateva ore sau pana cand se intareste bine. Poate fi facut in avans cu o zi.
+Etapa 3
+Scoateti din frigider cate o bucata mica de aluat si intindeti-o intre doua pungi, caci aluatul e tot lipicios dar maleabil.
+Etapa 4
+Cu o forma de fursecuri decupati cercuri si asezati-le pe o tava tapetata.Coaceti timp de 15 minute la foc mediu.Biscuitii se fac pereche folosind cate o lingura de crema ganache alba.
+Etapa 5
+Biscuitii umpluti cu crema se pastreaza o saptamana la frigider. Fursecurile simple, fara crema, pot fi tinute 2 saptamani intr-o cutie inchisa sau 3 luni la congelator.</li>
+<li>Un joc mai simplu decat crearea acestor biscuiti nu exista. Pentru inceput aveti nevoie de doua vase. Eu va zic varianta finala, ca am cantarit faina si zaharu-n etape, de era sa pierd siru gramajului la un moment dat, noroc de phone records. So, intr-un vas puneti 380 g faina, 10 g cacao, 5 g ness (o lingurita), 10 g praf de copt, 5 g bicarbonat si un praf de sare... next step: amestecati !
+  Dupa, adaugati tot in acest vas 50 g nuca snopita in bataie c-un facalet si 150 g ciocolata de menaj ciopartita in aschii potrivit de mari. Eu am folosit ciocolata de menaj cu aroma de vanilie - luata din Cora.
+
+In celalalt vas: 190 g zahar, 80 g margarina, 3 oua mari, 100 g smantana, 1 lingura unt de arahide si 1 plic zahar brun - puteti sa-l omiteti pe asta. Initial eu zahar brun mi-am dorit sa folosesc pentru reteta, dar cand am pus un plic am auzit un chiuit in ureche..."io de unde iau dup'asta zahar la cafea? " asa c-am inghitit in sec si am pus in cookies cristal alb. Deci puteti sa folositi ori alb - ori negru. Next step: mixati !
+Turnati amestecul din primul vas peste compozitia din al doilea si incorporati usor cu lingura. Nu insistati prea mult. Udati-va mainile si pregatiti-va de modelat. Daca ati pus gramajul de faina de mai sus...sigur aveti o pasta flexibila la mana, aproape ca o plastelina.
+Eu am facut niste bulgari mari, i-am turtit s-apoi i-am numit simplu biscuiti giganti de buzunar: ca asa li se intampla.. Poate-mi ghiceste si mie careva in palma...:)))  ce scrie acolo...? e prima data cand pune M. mana pe aparat ! :)) - (sa fie oare si ultima !?  :))
+Ii asezati pe o tava mare de cuptor, tapetata cu o foaie de copt, pudrata din plin cu faina si-i coaceti pe  frumosii astia pentru 25 minute la 180 grade. Sa lasati putin spatiu intre ei, ca se intind cat ii tine plapuma si se umfla-n pene rau de tot.
+
+
+
+
+Dupa ce s-au racit bine ii pudrati cu un super strat de zahar praf. Io bag un giant cookie intr-o punga, sa nu ma murdaresc de zahar praf si plec la munca. :)) Sunt plini de aschii mari de cioco si savoare de nuca. Nu le-am pus nici o esenta, ca e suficienta aroma proprie ingredientelor.
+</li>
+</random>
+</template>
+</category>
+</topic>
+</aiml>

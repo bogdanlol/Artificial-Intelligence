@@ -1,0 +1,484 @@
+<aiml>
+<category>
+      <pattern>vanilie</pattern>
+      <that>LPAREN "CIOCOLATA", "VANILIE", "CAPSUNI" RPAREN</that>
+      <template><think><set name="topic">vanilie</set></think>Ce ingredient secundar doresti sa aiba?("ou", "fructe", "faina")</template>
+</category>
+      <topic name = "vanilie">
+       <category>
+             <pattern>ou</pattern>
+             <that> LPAREN "OU", "FRUCTE", "FAINA" RPAREN</that>
+             <template>
+<random>
+<li>Ingrediente
+5 porții
+foi:
+- 150 g zahar
+- 1 lingura mare cacao
+- 2 oua intregi
+- 2 linguri miere albine
+- 50 g margarina
+- 1 praf de copt
+- 400-500 g faina
+
+crema:
+- 2 plicuri budinca
+- 2 plicuri budinca
+- 1 l lapte
+- 20 linguri zahar
+- 500 g Rama Maestro
+Preparare
+Etapa 1
+foi:
+Zaharul ,1 lingura cu cacao, cele 2 oua intregi,2 linguri miere de albine ,50 gr margarina le punem la fiert pe baie de aburi pana incepe sa spumeze compozitia amestecand continuu .In acest moment se ia de pe foc, adaugam praful de copt si faina cat cuprinde ,circa 400- 500 gr si framantam bine pana obtinem o coca elastica .
+Etapa 2
+Coca astfel obtinuta o impartim in 3 parti egale si le coacem pe dosul tavii. Cand e coapta si cat e calda o luam pe o hartie de copt si intindem urmatoarea foaie.
+Fiind coapte si foile ne apucam de preparat crema in felul urmator .
+Etapa 3
+crema :
+Cele 2 plicuri cu budinca de vanilie le amestecam cu 10 linguri zahar si adaugam la ele treptat 500 ml lapte rece. Aceasta compozitie o punem la fiert amestecand mereu sa nu se prinda de vas. Dupa ce a fiert lasam budinca la racit.
+Etapa 4
+Acum ca a racit bine adaugam la ea 250 gr Rama Maestro si cu mixerul le mixam bine . Iata ca am obtinut una din creme. La fel procedam si la celelalte 2 plicuri de budinca si obtinem cea de-a 2 a crema.
+Etapa 5
+Asamblare :
+Umplem foile cu cremele obtinute si deasupra ornam foaia cu glazura alba sau cu glazura de ciocolata .</li>
+<li>Ingrediente
+4 porții
+- 1400 g faina
+- 500 g untura
+- 30 g drojdie proaspata
+- 500 ml lapte
+- 2 linguri zahar
+- 1 lingurita sare
+- 4 oua
+- dulceata , rahat pentru umplutura
+- zahar praf
+- 2 plicuri zahar vanilat
+Preparare
+Etapa 1
+Cei 500 ml lapte ii punem la incalzit si dizolvam in el 30 gr drojdie impreuna cu 2 linguri zahar si 1 lingurita sare.
+Etapa 2
+Faina o amestecam cu 5000 gr untura , adaugam laptele in care am dizolvat drojdia, zaharul si sarea si punem cele 4 oua Framantam bine pana obtinem un aluat omogen pe care il vom lasa la dospit pana isi dubleaza volumul.
+Etapa 3
+Dupa ce a dospit aluatul il intindem cam de 1 deget grosime si cu un paharel il decupam. Fiecare bucata decupata pe un pic de faina il intindem cu sucitorul in foita subtire ,punem la un capat umplutura il rulam si ii dam forma de cornulet .
+Etapa 4
+Asezam cornuletele in tava si le dam la cuptorul incalzit in prealabil ,initial la foc mare pentru aproximativ 5 minute , apoi reducem focul la minim pana devin rozalii.
+Etapa 5
+Fierbinti ,cum le scoatem din cuptor tavalim cornuletele in zahar pudra in care punem si 1 plic de zahar vanilat macinat.</li>
+<li>Ingrediente
+4 porții
+Aluat rulouri:
+- 1/2 pachet de margarina
+- 2 oua
+- 1pah. lapte
+- 1pah. zahar
+- 1 praf de copt
+- zahar vanilat
+- 7-8 pah. faina
+
+Crema :
+- 6 lg faina
+- 4 lg cacao
+- 12 lg de zahar, 3 z. vanilat
+- 1 l lapte dulce
+- 1 1/2 unt (margarina)
+- 1 1/2 es rom, sare
+Preparare
+Etapa 1
+Se topeste margarina, se adauga si celelalte ingrediente , se face un aluat din care se intind foi, de 2 mm grosime, din care se taie straifuri late de 2 cm, lungi de 35 cm.
+Etapa 2
+Se pregatesc conurile de metal, se ia un straif si se infasoara, de jur imprejur, suprapunand cam 3 mm, aluatul,. pentru a nu iesi crema mai tarziu. Dupa ce infasuram, toate conurile, se pun in tava, la copt, cam 25 minute la foc mic, pana se auresc un pic.
+Etapa 3
+Se pune laptele intr-un vas si se amesteca faina cu telul, sare , cacaoa si se pune pe foc, mic . Se adauga apoi si celelalte ingrediente, cu exceptia margarinei si romului .
+Etapa 4
+Dupa ce a fiert si s-a ingrosat se pune la racit un pic, sa fie suportabila la mana, dupa care se adauga margarina, felii , se omegenizeaza bine, pana se topeste, iar la urma es de rom.</li>
+<li>Petitchef face magie in bucatarie. O reteta de prajitura inteligenta ce poate fi usor transformata in tort. Complicat spuneti? Nimic mai simplu! Urmati instructiunile si ....magia se va produce.
+Ingrediente
+8 porții
+112 gr de faina
+140 gr de zahar
+500 ml lapte
+125 g unt
+4 galbenusuri
+4 albusuri de ou
+coaja de la o lamaie
+un baton de vanilie
+Preparare
+Etapa 1 - Prajitura inteligenta cu vanilie si lamaie
+
+Se incalzeste laptele intr-o cratita impreuna cu batonul de vanilie, la foc mic timp de 15 minute. Inchideti focul si lasati la racit.
+Topiti untul si lasati-l la temperatura camerei.
+Etapa 2 - Prajitura inteligenta cu vanilie si lamaie
+
+Bateti albusurile spuma. Lasati-le deoparte.
+Etapa 3 - Prajitura inteligenta cu vanilie si lamaie
+
+Intr-un alt castron amestecati energic galbenusurile cu zaharul.
+Etapa 4 - Prajitura inteligenta cu vanilie si lamaie
+
+Peste galbenusuri adaugati untul topit si amestecati.
+Etapa 5 - Prajitura inteligenta cu vanilie si lamaie
+
+Adaugati laptele treptat.
+Etapa 6 - Prajitura inteligenta cu vanilie si lamaie
+
+Adaugati faina si coaja de lamaie.
+Etapa 7 - Prajitura inteligenta cu vanilie si lamaie
+
+In cele din urma, cu ajutorul unei spatule de silicon, incorporati cu miscari delicate albusurile batute spuma.
+Etapa 8 - Prajitura inteligenta cu vanilie si lamaie
+
+Tapetati cu faina o forma de copt. Turnati intreaga compozitie. Nivelati partea de sus. Coaceti timp de 50 minute la 150° C.
+Lasati la racit la temperatura camerei timp de 1 ora.
+Dati la rece, la frigider timp de 2 ore. Acest pas este important deoarece, la rece, va avea loc magia si se vor forma cele 3 straturi.
+Decorati cu zahar pudra.
+Gata!</li>
+<li>Ingrediente
+10 porții
+Miezul de ciocolata:
+90 de gr de ciocolata cu lapte
+2 linguri smantana
+40 de gr de unt
+
+Les moelleux :
+110 gr de faina
+90 de gr zahar
+2 oua
+90 de gr unt
+100 ml smantana
+sare
+extract de vanilie
+20 g pudra de cacao
+Materiale
+forma de silicon/ forma de cuburi de gheata pentru mieztava de muffinsposh (optional)
+Preparare
+Etapa 1 - Moelleux ciocolata-vanilie
+
+Miezul de ciocolata :
+Se topeste ciocolata cu lapte impreuna cu smantana si unt. Se amesteca bine.
+Etapa 2 - Moelleux ciocolata-vanilie
+
+Se toarna intr-o matrita de silicon/forma de cuburi de gheata si se pune in congelator timp de cel putin o ora.
+Etapa 3 - Moelleux ciocolata-vanilie
+
+Les moelleux :
+Se amesteca faina cu zahar, sare si oua. Se adauga untul topit si smantana lichida. Se amesteca bine.
+Etapa 4 - Moelleux ciocolata-vanilie
+
+Impartiti aluatul injumatate-jumatate. Intr-o jumatate adaugati aproximativ 1 lingura extract de vanilie. In cealalta, adaugati pudra de cacao și amestecați bine.
+Etapa 5 - Moelleux ciocolata-vanilie
+
+In cupele muffin unse cu ulei, turnați cele 2 compozitii in același timp folosind 2 posh-uri.
+Etapa 6 - Moelleux ciocolata-vanilie
+
+Indepartati cu grija miezul de ciocolata (puneti fundul tavii pentru cateva secunde in apa calda daca este prea dificil).Puneti cate un miez de ciocolata in mijlocul fiecarei compozitii de cioco-vanilie.
+Etapa 7 - Moelleux ciocolata-vanilie
+
+Coaceti 10 minute la 200 de gradeC.
+Etapa 8 - Moelleux ciocolata-vanilie
+
+Gata!</li>
+
+</random>
+</template>
+</category>
+<category>
+      <pattern>fructe</pattern>
+      <that> LPAREN "OU", "FRUCTE", "FAINA" RPAREN</that>
+      <template>
+<random>
+<li>Ingrediente
+4 porții
+Blat:
+- 1 cana zahar
+- 1 cana ulei
+- 1 cana apa minerala
+- 1 pliculet praf de copt
+- esenta de rom
+- 2 linguri mari cacao
+- 2 cani nu foarte pline de faina
+
+Crema:
+- 2 plicuri praf de budinca de vanilie
+- 800 ml. lapte de soia sau suc natural
+- zahar dupa gust
+- 2 linguri mari de margarina (Rama)
+
+In plus:
+- banane sau alte fructe de sezon, la alegere
+- 1 tableta de ciocolata cu minim 80 % cacao (de post)
+Preparare
+Etapa 1
+Blatul:
+prima si prima data tre' sa "mestesugim" ceva drept pentru care ne apucam sa croim un suport din hartie pergament cu care sa captusim baza formei de copt.
+nu prea multe sa va zic, ca o fac pozele prea bine.
+Etapa 2
+Se amesteca intr-un castron apa cu uleiul si zaharul pana la topirea acestuia, apoi se adauga faina, praful de copt (cernute) cat si cacaua si esentele.Se coace blatul timp de cca. 30-35 de minute, la foc potrivit (faceti testul scobitorii)Lasati-l sa se raceasca bine (aveti grija cum il manevrati caci este destul de sfaramicios).
+Etapa 3
+Crema:
+Se face o budinca mai groasa din lapte de soia si praf de budinca (puteti inlocui laptele de soia cu suc natural de fructe)
+Se adauga zahar dupa gust. Se adauga margarina in budinca fierbinte si se amesteca bine.
+Etapa 4
+Ca sa dezlipiti usor hartia de pe blat, asezati un platou deasupra lui si-l rasturnati...apoi totul decurge foarte usor.iar ca sa il readuceti la forma lui initiala, faceti din nou manevra cu platoul
+Se unge apoi, cu grija, intreaga suprafata a tortului cu crema calda de vanilie si se orneaza cu bucatele de banane sau alte fructe, la alegere (feliile de banana vor fi amestecate in prealabil cu zeama de lamaie, pentru a nu se innegri)
+Etapa 5
+Cat si cu cerculete fine de ciocolata (da, stiu, nu seamana maglavaisul ala negru cu nici un cerculet, dar na, macar am incercat ).Se finiseaza a doua zi, pe soare, cand parca totul arata altfel .Se pensuleaza, daca vreti, cu miere incalzita un pic la microunde.Se serveste in liniste, departe de framantarile lumii exterioare.</li>
+<li>Ingrediente
+4 porții
+Blat:
+- 1 cana zahar
+- 1 cana ulei
+- 1 cana apa minerala
+- 1 pliculet praf de copt
+- esenta de rom
+- 2 linguri mari cacao
+- 2 cani nu foarte pline de faina
+
+Crema:
+- 2 plicuri praf de budinca de vanilie
+- 800 ml. lapte de soia sau suc natural
+- zahar dupa gust
+- 2 linguri mari de margarina (Rama)
+
+In plus:
+- banane sau alte fructe de sezon, la alegere
+- 1 tableta de ciocolata cu minim 80 % cacao (de post)
+Preparare
+Etapa 1
+Blatul:
+prima si prima data tre' sa "mestesugim" ceva drept pentru care ne apucam sa croim un suport din hartie pergament cu care sa captusim baza formei de copt.
+nu prea multe sa va zic, ca o fac pozele prea bine.
+Etapa 2
+Se amesteca intr-un castron apa cu uleiul si zaharul pana la topirea acestuia, apoi se adauga faina, praful de copt (cernute) cat si cacaua si esentele.Se coace blatul timp de cca. 30-35 de minute, la foc potrivit (faceti testul scobitorii)Lasati-l sa se raceasca bine (aveti grija cum il manevrati caci este destul de sfaramicios).
+Etapa 3
+Crema:
+Se face o budinca mai groasa din lapte de soia si praf de budinca (puteti inlocui laptele de soia cu suc natural de fructe)
+Se adauga zahar dupa gust. Se adauga margarina in budinca fierbinte si se amesteca bine.
+Etapa 4
+Ca sa dezlipiti usor hartia de pe blat, asezati un platou deasupra lui si-l rasturnati...apoi totul decurge foarte usor.iar ca sa il readuceti la forma lui initiala, faceti din nou manevra cu platoul
+Se unge apoi, cu grija, intreaga suprafata a tortului cu crema calda de vanilie si se orneaza cu bucatele de banane sau alte fructe, la alegere (feliile de banana vor fi amestecate in prealabil cu zeama de lamaie, pentru a nu se innegri)
+Etapa 5
+Cat si cu cerculete fine de ciocolata (da, stiu, nu seamana maglavaisul ala negru cu nici un cerculet, dar na, macar am incercat ).Se finiseaza a doua zi, pe soare, cand parca totul arata altfel .Se pensuleaza, daca vreti, cu miere incalzita un pic la microunde.Se serveste in liniste, departe de framantarile lumii exterioare.</li>
+<li>Ingrediente
+8 porții
+In primul rand, ai nevoie de o tava de tarta, de 24 de cm pe care o ungi cu putin unt. Apoi, lista de ingrediente cuprinde (foto 1 si 2):
+1. 600 gr fructe de padure
+2. 100 gr unt moale
+3. 100 gr faina
+4. 100 gr branza de vaci mai cremoasa
+5. 50 gr zahar brun
+6. doua linguri de lapte
+7. esenta de lamaie
+8. un pic mai putin de jumatate de plic de praf de copt
+
+Crema, din motive de toropeala cronica, am preparat-o din (foto 7):
+1. un plic budinca de vanilie Dr. Oetker
+2. 500 ml lapte
+3. 2 linguri de zahar
+
+Optional, pentru decor (foto 7):
+1. smantana pentru frisca
+2. zahar
+Daca folosesti fructe congelate, vei avea nevoie si de un plic de tort gelee Dr. Oetker sau alta marca de jeleu transparent.
+Preparare
+Iaca, le-a venit si lor randul! Fructelor de padure, caci despre ele e vorba :) . Dupa busuiocul din sosul pentru mini-pizza, fructele de padure sunt al doilea ingredient propus luna aceasta de Flory pentru Dulcea Romanie.
+
+Desigur, as fi preferat sa folosesc fructe proaspete insa cum sunt scumpe si e criza dom'le :) , am optat pentru cele congelate. Au dezavantajul de a se inmuia odata decongelate si trebuie tinute suficient timp la scurs intr-o sita. Apoi tarta trebuie imbracata in jeleu, ca sa nu se imprastie sucul fructelor si sa se reverse inestetic. Cu toate astea, gustul este la inaltime!
+
+Ce este mai interesant la aceasta tarta este aluatul cu branza de vaci (o alta varianta de aluat cu branza de vaci gasesti aici), iar intamplarea a facut sa am un sortiment sarat care insa a mers de minune si nicidecum nu a stricat gustul asa cum ma panicasem initial, ci doar a intensificat restul aromelor. Poveste cu happy end :) .
+
+
+Daca folosesti fructe congelate, vei avea nevoie si de un plic de tort gelee Dr. Oetker sau alta marca de jeleu transparent.
+
+Fructele le decongelezi din timp si le lasi sa se scurga intr-o sita iar cuptorul il preincalzesti la 180 de grade.
+Untul il freci cu zaharul, adaugi laptele, branza de vaci, esenta si mixezi (foto 3). Faina o amesteci cu praful de copt si o torni peste compozitie (foto 4). Pui aluatul astfel obtinut in tava unsa (foto 5) si il intinzi cu ajutorul unei spatule (foto 6). Pui la cuptor pentru 35-40 de min, pana se rumeneste putin blatul si trece cu brio testul scobitorii.
+
+Intre timp te poti ocupa de budinca, conform indicatiilor de pe pachet si anume: intr-un bol amesteci cu un tel continutul unui plic de budinca cu doua linguri rase de zahar si patru linguri de lapte (foto 8). Restul laptelui il pui la fiert. Cand incepe sa fiarba, torni peste el compozitia din bol si mai pui pe foc putin, amestecand cu telul, pana capata consistenta dorita (foto 9). Lasi sa se raceasca.
+
+
+Blatul il scoti pe un gratar de prajituri. Cand s-au racit si budinca si blatul, intinzi budinca uniform peste blat (foto 10). Apoi asezi fructele si prepari conform indicatiilor tort gelee-ul. Lasi tarta cateva ore la frigider si daca doresti, o poti dichisi cu frisca inainte de a o servi. Pofta buna!</li>
+<li>Ingrediente
+8 porții
+1 mango copt
+250 g capsuni
+2 piersici coapte
+suc din 2 limes
+2 linguri de miere
+1 pumn de frunze de menta
+1 cutie(450 ml)de inghetata de vanilie
+Preparare
+Etapa 1
+Se curata fructul de mango si se taie felii subtiri.Se spala capsunile si se taie jumatati.
+Etapa 2
+Piersicile se taie pe jumatete,se scot samburii dupa care se taie felii
+Etapa 3
+Separat,se amesteca sucul de limes cu mierea,si se toarna peste fructele amestecate.Se lasa 15 minute la marinat,dupa care se serveste cu o cupa de inghetata</li>
+<li>Ingrediente
+8 porții
+Pentru blat:
+- 3 oua
+- 400 g. faina
+- 150 g. unt
+- 100 g. zahar tos
+
+Pentru sarlota:
+- 2 plicuri praf de budinca de vanilie sau 1 portie crema de vanilie
+- 100 g. portocale
+- 100 g. capsuni
+- 100 g. mere
+- 100 g. banane
+Preparare
+Etapa 1
+Preincalziti cuptorul la 180 grade C. Amestecati ouale cu untul si zaharul. Bateti bine. Adaugati faina si intindeti compozitia intr-o forma mare de tarta
+Intepati aluatul, din loc in loc, cu dintii unei furculite. Coaceti timp de cca. 25 de minute.
+Etapa 2
+Rasturnati cu grija aluatul pe platoul de servit: asezati platoul cu partea pe care va sta tarta deasupra aluatului si cu o miscare ferma, rasturnati forma de copt astfel incat aluatul sa ajunga cu fundu'-n sus.
+Etapa 3
+Pregatiti budinca asa cum o pregatiti de obicei, insa in loc de 500 ml. lapte necesari unei portii folositi doar 200-250 ml. Dupa ce s-a ingrosat, intindeti-o pe blat. Lasati sa se raceasca bine si-apoi ornati cu fructele taiate felii.</li>
+
+</random>
+</template>
+</category>
+
+<category>
+      <pattern>faina</pattern>
+      <that> LPAREN "OU", "FRUCTE", "FAINA" RPAREN</that>
+      <template>
+<random>
+<li>ngrediente
+6 porții
+- 5-6 albusuri
+- 4 linguri de zahar
+- 15 linguri cu varf cu nuca de cocos
+- 5 linguri cu varf cu faina
+- 3 linguri cu mac
+- esenta de vanilie
+- 1 plic de zahar vaniat
+- 1/2 plic praf de copt
+- un praf de sare
+Preparare
+Etapa 1
+Mixam albusurile cu un praf de sare, adaugand treptat zahar si zaharul vanilat. Incorporam treptat faina amestecata cu praful de copt si nuca de cocos. Punem si cateva picaturi de esenta de vanilie pentru a aroma checul.
+Etapa 2
+La final adaugam trei linguri de mac si amestecam usor de jos in sus cu o lingura de lemn. Turnam compozitia obtinuta intr-o tava tapetata cu hartie de copt, insa oprim 5-6 linguri pentru a colora cu pudra de roscove.
+Etapa 3
+Dam checul la cuptor pentru aproximativ 30 de minute, insa cel mai sigur testam cu o scobitoare. Cand este gata, scoatem forma din cuptor si lasam sa se raceasca si apoi putem sa feliem.</li>
+<li>ngrediente
+6 porții
+aluat:
+- 400 g faina
+- 240 gr unt
+- 2 lingurite bicarbonat de sodiu
+- 2 linguri zahar praf
+- 2 linguri cacao
+- 2 galbenusuri ou
+- 200 ml smantana
+
+crema :
+- 1 kg branza dulce
+- 8 galbenusuri
+- 400 g zahar pudra
+- 6 linguri gris
+- 2 plicuri zahar vanilat
+- Coaja razuita de la 1 lamaie
+- 200 g stafide
+
+Alte ingrediente :
+- Ciocolata de menaj pentru ornat.
+Preparare
+Etapa 1
+Cantitatile date sunt de ajuns pentru a obtine 2 rulade 400 g faina,240 g margarina ,2 lingurite de bicarbonat ,2 linguri zahar pudra , 2 galbenusuri de ou , 2 linguri cacao ,si 200 ml smantana amestecam bine pana la omogenizare si obtinem un aluat pe care il vom imparti in 2 parti egale.
+Etapa 2
+Intindem o parte si tapetam o forma de chec cu el in asa fel incat sa ajunga aluatul sa acoperim si umplutura .Procedam la fel si cu a doua parte a aluatului.
+Acestea fiind facute ne apucam de umplutura. Intr-un vas punem cele 8 albusuri de ou si cele 2 albusuri ramase de la aluat si le batem spuma . Separat punem 1 kg branza ,8 galbenusuri , 400 g zahar pudra , 6 linguri gris , 2 plicuri zahar vanilat si coaja razuita de la 1 lamaie si amestecam bine pana se omogenizeaza totul.
+Etapa 3
+La aceasta compozitie adaugam albusurile de ou batute spuma si amestecam pana la omogenizare. Aceasta crema o turnam in formele de chec in care am asezat deja aluatul intins , si acoperim crema cu restul de aluat dupa care dam formele la cuptor .Cuptorul va fi incalzit in prealabil.
+Etapa 4
+Se tine pana foaia de deasupra este coapta . Dupa ce a copt ,lasam la racit , scoatem ruladele din forma si glazuram cu ciocolata de menaj topita la aburi in care vom pune si putin unt . Se lasa la racit pana se prinde glazura , apoi se poate servi.</li>
+<li>Ingrediente
+4 porții
+- 2 oua
+- 10 linguri apa
+- 200 ml ulei
+- 120 g zahar
+- 1 lingurita rasa praf de copt
+- coaja de lamaie
+- esenta de vanilie si de migdale
+- 3 linguri nuca de cocos
+- 320 g faina
+- 200 g ciocolata
+Preparare
+Etapa 1
+Amestecam ouale cu apa, la care adugam zaharul, esentele de vanilie si coaja de lamaie, mixam foarte bine. In timp ce mixam adaugam uleiul. Apoi punem faina amestecata cu praful de copt si cele 3 linguri de nuca de cocos.
+Etapa 2
+Aluatul obtinut nu este nici lichid, dar nici tare, cat sa stea pe lingura. Cu mainile unse cu putin ulei, formam din aluat bilute de aproximativ 3 cm diametru, pe care le asezam la distanta pe hartia de copt, fiindca fursecurile vor creste.
+Etapa 3
+Le coacem in cuptorul preincalzit la foc mic pana devin aurii la suprafata. Cand fursecurile s-au racit se pun la topit, in baie de aburi, 200 g ciocolata cu 3 linguri de ulei si se glazureaza fursecurile.</li>
+<li>Ingrediente
+8 porții
+Pentru aluat:
+- 500 grame faina
+- 25 g drojdie
+- 100 g zahar
+- 275 ml lapte
+- 100 grame unt
+- 2 galbenusuri
+- un praf de sare
+- arome - coaja rasa de lamaie, portocala, esenta de rom, vanilie
+
+Pentru umplutura:
+- 500 grame branza dulce
+- 6 oua
+- 250 grame zahar
+- 1 plic de zahar pudra cu aroma de vanilie
+- stafide
+- coaja de lamaie
+- pesmet pentru tapetat aluatul
+Preparare
+Etapa 1
+Incepem cu aluatul:
+Intr-un castron mare cernem faina ...sa fie mai pufoasa si aerisita pentru a dospi repede si bine.Incalzim laptele in care dizolvam zaharul si vanilia. Topim si untul separat.
+Etapa 2
+In mijlocul fainii facem o scobitura in care pregatim maiaua din drojdie cu putina faina si cateva linguri din laptele preparat mai devreme, care trebuie sa fie caldut nu fierbinte, apoi presaram peste maia o mana de faina si o lasam la loc cald cam 10-15 minute, sa creasca, pana se crapa faina.
+Etapa 3
+Intre timp luam galbenusurile si le frecam cu sare, coaja de lamaie sau portocala. Albusurile le dam deoparte, puteti sa le congelati si sa le folositi la alte prajituri.
+Etapa 4
+Adaugam la maia, restul de lapte caldut si galbenusurile amestecand cu mana si framantam usor, adaugand treptat putin cate putin unt topit care trebuie sa fie caldut.
+Etapa 5
+Cand a terminat lasam sa dospeasca pana isi dubleaza volumul, intr-un loc cald, ferit de curenti.
+Etapa 6
+Umplutura:
+Amestecam branza cu ouale, zaharul , coaja de lamaie, esente si un praf de sare. Omogenizam bine si lasam deoparteDaca punem si stafide le lasam cateva minute in esenta de rom si apoi le adaugam.
+Etapa 7
+Dupa ce aluatul a crescut luam o bucata si modelam baza pascutei si o vom pune intr-o tava rotunda tapetata cu hartie de copt.Din restul de aluat vom pregati impletitura de pe margine, dar putem face si o cruce pentru mijloc.
+Etapa 8
+Preincalziti cuptorul. Introducem tava cu aluatul pentru aproximativ 10 minute sau cat sa prinda o crusta. Facem acest lucru pentru a nu se incruzi aluatul atunci cand vom pune branza.
+Etapa 9
+Dupa ce am scos tava presaram peste aluat putin pesmet si turnam compozitia de branza.In mijloc vom punem impletitura in forma de cruce.</li>
+<li>Ingrediente
+4 porții
+- 500 g faina
+- 25 g drojdie
+- 50 ml lapte
+- 50 g unt
+- 3 oua
+- 100 g zahar
+- esenta de vanilie si rom
+- un varf de cutit cu sare
+Preparare
+Etapa 1
+Se cerne faina intr-un vas. Se adauga drojdia dizolvata in lapte caldut indulcit cu jumatate din cantitatea de zahar. Lasam putin pana incepe sa se umfle.
+Etapa 2
+Ouale se bat bine cu praful de sare si cu restul de zahar.Se toarna peste faina.Se adauga esentele si incepem sa framantam pana incepe sa se desprinda de pe peretii vasului.
+Etapa 3
+Incepem apoi sa adaugam treptat untul topit. Se lasa la dospit in jur de 2 ore.
+Etapa 4
+Masa se presara cu faina pentru a nu se lipi aluatul. Se intinde o foaie nu foarte groasa si se taie din ea formele dorite.
+Etapa 5
+Se lasa pe masa sa mai creasca putin, apoi se coc in uleiul bine incins.Se tavalesc prin zahar pudra.</li>
+
+</random>
+</template>
+</category>
+</topic>
+</aiml>

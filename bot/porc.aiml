@@ -1,0 +1,382 @@
+<aiml>
+<category>
+      <pattern>PORC</pattern>
+      <that>LPAREN "PUI", "PESTE", "PORC" RPAREN</that>
+      <template><think><set name="topic">porc</set></think>Ce ingredient secundar doresti sa aiba?("orez", "cartofi", "paste")</template>
+</category>
+
+   <topic name = "porc">
+       <category>
+             <pattern>orez</pattern>
+            
+             <template>
+        <random>
+            <li>
+Timpi de preparare
+
+    Timp de preparare: 40 min
+    Timp de gatire: 0 min
+    Gata in: 40 min
+
+Ingrediente
+
+    200 g orez cu bobul subţire şi lung
+    o ceapă mare
+    1-2 ardei capia
+    2 morcovi potriviți
+    300 g broccoli
+    sare
+    piper alb şi roşu măcinat
+    5-6 linguri ulei de măsline
+    400 g pulpă de porc
+    1 lingura pastă de ardei
+    sos de soia
+
+Mod De Preparare
+
+    Se spală bine orezul şi se lasă aproximativ o oră în apă rece. La 200 g de orez, se adaugă 500 ml apă şi 2-3 linguri de ulei. Uleiul se pune pentru a nu se lipi şi pentru a avea un aspect plăcut. Se fierbe orezul, apoi se acoperă cu un capac şi se lasă la temperatura camerei.
+    Separat, se curăţă şi se spală ceapa, morcovii şi ardeii. Ceapa se taie în patru, apoi fiecare sfert se desface în foiţe. Morcovii se taie rondele, broccoli se desfac în bucheţele, ardeii se taie în patru şi se pun într-o tigaie suficient de mare. Se încing 3-4 linguri ulei de măsline şi se pun legumele la foc iute.
+    Se amestecă continuu astfel încât legumele să nu se înmoaie sau să se ardă. Când au căpătat culoarea aurie, se iau de pe foc şi se stropesc cu sare, piper şi sos de soia, apoi se acoperă cu un capac.
+    Carnea de porc se taie cubuleţe, se căleşte, separat, în puţin ulei, şi se lasă să se prăjească la foc mic, să nu se ardă şi să se pătrundă uniform. După ce s-a rumenit, se adaugă sosul de soia şi pasta de ardei. Se mai lasă câteva minute şi se ia de pe foc. Pe un platou, se pun orezul, legumele şi carnea şi se ornează cu frunze de salată.
+</li>
+            <li>Ingrediente
+4 porții
+800 gr carne de porc ( muschiulet/ pulpa de porc)
+1 morcov
+1 ardei gras galben ( se poate rosu/ verde)
+2 cepe
+1 catel de usturoi
+30 ml ulei
+sare, piper
+250 gr orez
+1 lingura patrunjel verde tocat
+Preparare
+Etapa 1
+Legumele se curata si se spala.
+Ceapa si usturoiul se toaca marunt, ardeiul se taie cuburi , iar morcovul se da pe razatoare.
+Carnea de porc, eu am folosit din pulpa, se taie cubulete mai mici.
+Etapa 2
+Se caleste ceapa si morcovul in ulei, pana ce se inmoaie.
+Apoi adaugam ardeiul taiat.
+Dupa ce s-au calit adaugam carnea si mai lasam 2-3 min.Se toarna apa sa cuprinda toata carnea, apoi se condimenteaza cu sare si piper si se lasa sa fiarba.
+Etapa 3
+Intre timp se spala bine orezul si se firbe separat, in apa clocotita cu sare.
+Se fierbe doar pe jumatate si se strecoara.
+Etapa 4
+Dupa ce a fiert carnea ( daca nu a fiert si a scazut apa, se poate completa cu apa fierbinte, pana ce fierbe carnea) se adauga orezul si se lasa inca 5 min pe foc incet.
+Se mai condimenteaza, daca este nevoie, iar la final se adauga patrunjel verde tocat.</li>
+             <li>Ingrediente
+2 porții
+500g carne de porc (pulpa, muschi, gulas)
+3 fire ceapa verde
+1 catel de usturoi
+1 lingurita rasa de boia dulce
+½ lingurita piper macinat
+1 varf lingurita de sare
+1 varf lingurta seminte de chimen
+1 lingura sos de soia
+3 linguri ulei de masline
+1 lingurita ghimbir uscat (optional)
+
+Pentru chiftelute :
+200g orez
+2 fire ceapa verde
+2 linguri marar proaspat tocat
+2 oua
+4 linguri seminte de susan
+½ lingurita piper
+1 lingurita rasa de boia dulce
+½ lingurita sare
+1 lingura sos de soia
+Ulei de floarea soarelui (pentru prajit)
+Preparare
+Etapa 1
+Am taiat carnea bucati mai mici, dupa care le-am amestecat cu 1 varf linguita de sare. Intr-o tigaie de teflon am incins 3 linguri de ulei de masline dupa care am adaugat bucatile de carne si le-am lasat la rumenit pentru aproximativ 10 minute, la foc mediu.
+Etapa 2
+Intr-e timp, intr-o oala cu apa clocotita si un praf de sare am adaugat orezul spalat bine. L-am lasat pentru aproximativ 10 minute si am avut grija sa nu se sparga. Dupa fierbere, l-am strecurat si l-am trecut printr-un jet de apa rece.
+Etapa 3
+Peste carne, am adaugat usturoiul maruntit si ghimbirul, am lasat pentru 2 minute la rumenit dupa care am adaugat ceapa verde tocata marunt.
+Dupa 2 minute am pus toate condimentele astfel: 1 lingurita rasa de boia dulce, 1/2 lingurita piper, 1 varf lingurita chimen si 1 lingura cu sos de soia. Am amestecat bine pana ce fiecare bucatica de carne a fost cuprinsa de amestecul de condimente, am lasat putin la sfarait dupa care am adugat 1 ceasca cu apa. Am acoperit si am lasat totul la foc mic pana cand nu a mai ramas pic de apa.
+Etapa 4
+Orezul l-am amestecat cu 2 oua, 1/2 lingurita sare, 1/2 lingurita piper, 4 linguri seminte de susan, 1 lingurita rasa boia dulce, 2 linguri marar proaspat tocat marunt, 1 lingura sos de soia si cele 2 fire de ceapa verde tocate marunt. Chiftelutele le-am facut astfel: intr-o tigaie de teflon am adaugat 4 linguri de ulei dupa care am adaugat cu ajutorul unei linguri, gramajoare de orez. Dupa cateva secunde de sfarait, le-am turtit putin si le-am lasat la rumenit pentru aproximativ 3-4 minute pe fiecare parte. Am completat cu ulei in cazul in care nu mai aveam in ce sa le rumenesc. Chiftelutele le-am aranjat frumos pe o farfurie cu un prosop de hartie sub ele.
+Etapa 5
+Sa aveti pofta !</li>
+            <li>ngrediente
+6 porții
+Pentru ficateii de pui inveliti in bacon:
+- Ficatei de pui
+- Felii de bacon
+- Sare si piper, dupa gust
+- 5-6 catei de usturoi
+- Ulei
+
+Pentru orezul cu legume, ananas si curry:
+- 1 ardei rosu mare
+- 1 ardei iute verde mare
+- 300 g ananas
+- 2 morcovi mari
+- 2-3 fire de ceapa verde
+- Sare, piper si curry, dupa gust
+- Ulei
+- Orez basmati
+Preparare
+Etapa 1
+Curatam si spalam ficateii, dupa care ii lasam la scurs intr-o strecuratoare. Baconul de preferat este sa il cumparati gata feliat, astfel feliutele sunt egale si subtirele, daca nu il feliati dumneavoastra cat mai frumos. Luam cate o feliuta de bacon, punem cate un ficatel pe un capat al baconului si incepem sa infasuram, dupa care infigem in ficatel cate o scobitoare.
+Etapa 2
+Luam o tava, o stropim cu putin ulei, aranjam ficateii in tava, condimentam cu sare si piper, dupa gust, stropim ficateii cu putin ulei, presaram printre ficatei cateii de usturoi curatati si taiati feliute, in prealabil si dam tava la cuptorul incins pentru 25-30 minute.
+Etapa 3
+Dupa ce baconul capata o culoare rumenie, scoatem ficateii din cuptor si ii servim atat calzi langa orice fel de garnitura dorim, ori reci ca aperitiv. A servit ficateii langa o garniture de orez basmati cu ananas, legume si curry.
+Etapa 4
+Fierbem orezul in apa cu sare , apoi il scoatem intr-o strecuratoare la scurs. Spalam ardeiul rosu, ii indepartam cotorul si semintele apoi il taiem fasiute subtiri. Spalam si curatam morcovii apoi ii dam pe razatoarea speciala, astfel incat sa rezulte niste fasiute lungi si mai subtirele, daca nu aveti asa ceva, taiati-i cu mana.
+Etapa 5
+Spalam ardeiul iute, indepartam cotorul si il taiem rondele. Ceapa verde o spalam si o taiem rondele. Ananasul il taiem cubulete. Avand toate acestea pregatite, putem incepe sa preparam garnitura pentru ficateii inveliti in bacon.
+Etapa 6
+Punem intr-o tigaie putin ulei, adaugam ceapa verde si morcovii si ii lasam la calit 1-2 minute. Adaugam apoi ananasul, ardeiul iute si ardeiul gras, lasam din nou la calit 2-3 minute.
+Etapa 7
+Spre sfarsit condimentam cu piper, sare si curry dupa gust, amestecam si mai lasam 2-3 minute, sau pana se incalesc legumele, dupa gustul nostru adaugam orezul fiert si scurs, amestecam iar garnitura este gata de servit.</li>
+             <li>Ingrediente
+2 porții
+- 250 g carne de porc,
+- 200 g legume congelate
+- 150 g orez, sare, piper,
+- curry, oregano, patrunjel,
+- 2 linguri sos de rosii, o lingura de smantana.
+Preparare
+Etapa 1
+Carnea de porc am taiat-o cubulete si a prajit-o, apoi a scos-o pe un servetel.
+Orezul l-a fiert in apa cu sare, apoi l-a scurs bine.
+Etapa 2
+Intr-o tigaie fara ulei am pus carnea de porc, apoi legumele si orezul. A amestecat usor, apoi a adaugat condimentele, bulionul si smantana. A lasat aprox. 8-10 minute pe foc apoi a dat deoparte.</li>
+
+</random>
+</template>
+</category>
+<category>
+           <pattern>cartofi</pattern>
+          
+           <template>
+      <random>
+          <li>Ingrediente
+8 porții
+2 kg carne de porc,
+100 gr costita afumata,
+5 catei usturoi,
+1 lingurita cimbru,
+sare,
+piper,
+1 cescuta ulei.
+6 cartofi, 3 cepe, 200 gr costita afumata, un paharel ulei, 2 linguri bulion, sare, piper
+Preparare
+Se curata carnea de pielite, se impaneaza cu bucati de costita afumata si cu cateii de usturoi.
+Se condimenteaza cu sare, piper si cimbru.
+Carnea se va infasura cu o ata mai graoasa, de mai multe ori, sa-si pastreze forma la cuptor.
+Intr-o tava se pune cescuta de ulei, se pune carnea si se adauga un pahar cu apa.
+Se pune folie de aluminiu deasupra si se introduce la cuptor.
+Dupa o ora se va scoate folia de aluminiu si se intoarce carnea.
+Se mai lasa la cuptor inca o ora.
+La jumatetea timpului (dupa 30 minute), se va intoarce din nou carnea, stropinduse si cu sosul din tava.
+
+Se scoate din cuptor, se taie felii groase.
+
+Cartofii se curata de coaja, se taie in doua, apoi in felii de ½ cm. Se pun la fiert in apa cu sare. Se fierbt doar pe jumatate.
+Intre timp se curata ceapa si se taie fideluta. Se pune la calit in ulei, se tine pana capata o culoare aurie, dupa care se adauga costita afumata, taiata feliute subtiri si inguste. Se mai tin pe foc ~ 15 minute, dupa care se adauga bulionul indoit cu putina apa. Se condimenteaza cu sare si piper.
+
+Intr-o cratita, se pun jumatate din cartofi, apoi jumatate din compozitia cu ceapa si costita, iar cartofi, iar ceapa cu costita.
+Se dau la cuptor pentru aproximativ o ora.</li>
+          <li>Ingrediente
+4 porții
+- 4 bucati ceafa de porc marinata
+- 5-6 cartofi
+- o cana de vin alb
+- o cana apa
+- condimente
+- ulei
+Preparare
+Etapa 1
+Se marineaza carnea cel putin doua ore. Ideal ar fi sa o lasi in frigider la marinat de seara pana a doua zi cand o pregatesti.
+Etapa 2
+Cum se marineaza: bucatile de carne se condimenteaza cu cimbru, piper, usturoi si ulei de masline cat sa acopere carnea.
+Etapa 3
+Se taie cartofii in patru si se prajesc putin (adica 2-3 minute) in ulei, in vasul in care faci friptura.
+Etapa 4
+Separat, fiecare bucata de carne se prajeste pe fiecare parte un minut.
+Etapa 5
+Se adauga carnea peste cartofii taiati in sferturi. Se adauga o cana de vin alb si una de apa, eventual si ulei daca mai consideri necesar.Se condimenteaza dupa gust si se baga la cuptor. Acum poti sa pui si sare cata vrei.
+Etapa 6
+In aproximativ o ora si jumatate o sa ai o friptura delicioasa frageda si buna!</li>
+           <li>Ingrediente
+4 porții
+- 3 bucati cotlet de porc marinat
+- 3 bucati pulpa de porc marinata
+- 6 cartofi
+- faina de malai
+- sare
+- rozmarin
+Preparare
+Etapa 1
+Porcul luat de la Kaufland, gata marinat. Imi place tare mult, mi se pare foarte gustos.
+Cartofii se curata si se taie cubulete, apoi se dau prin amestecul de faina de malai, sare si rozmarin.
+Etapa 2
+Se aseaza in tava unsa si se stopesc putin cu ulei. In alta tava se aseaza bucatile de porc si se stopesc si ele cu putin ulei. Se dau toate la cuptor pana se rumenesc frumos. servit cu sos se iaurt cu castraveti, usturoi si marar.</li>
+          <li>Ingrediente
+4 porții
+- 4-5 linguri ulei,
+- 150ml apa
+- putei
+- foi de dafin (vreo 2-3 nu exagerati)
+- cativa catei de usturoi,
+- carnea de porc
+- o lingurita daca va place
+Preparare
+Etapa 1
+Se da totul la cuptor la 350F pana friptura e rumenita si patrunsa zeama in care s-a facut o strecuram intr-o craticioara, pasam si usturoiul prin strecuratoare sa ramana in sos, adaugam o lingurita de amidon sa ingorsam putin tot amestecul si cand s-a fiert, tragem de pe foc, dar tinem la cald.
+Etapa 2
+In timp ce se coace friptura de porc pregatim piureul de cartofi.
+Probabil stiti ca la piure se folosesc cartofi albi, pt ca sint mai fainosi si sfaramiciosi, iar la salate cei rosii, pt ca raman intregi.
+Etapa 3
+Se curata, spala si taie in bucati mari, 4 cartofi albi de marime mijlocie si se pun la fiert in apa cu o foaie de dafin si 2 catei de usturoi .cand cartofii s-au fiert scurgem de apa si adaugam 50-75g unt, o lingurita de zahar, sare dupa gust si 100ml lapte fierbinte, turnat incetisor sa nu tranformam totul in supa crema.
+Etapa 4
+Rezultatul trebuie sa fie un piure pufos, din care putem lua cu furculita deci cantitatea de lapte se poate mari sau micsora in functie de soiul de cartofi folosit.Se serveste totul cald, turnand pe deasupra fripturii si a piureului, sosul cu aroma delicata de usturoi.</li>
+           <li>Ingrediente
+6 porții
+- 1 kg carne porc
+- 1 punga magica Knorr
+- 700 g cartofi
+- 1 ceapa
+- patrunjel verde
+- 2 linguri ulei masline
+- condimente
+Preparare
+Etapa 1
+Carnea de porc se introduce in Punga magica si se condimenteaza cu continutul aflat in punga. Se inchide punga cu dispozitivul atasat si se pune in tava peste cartofii preparati astfel.
+Etapa 2
+Se curata cartofii si se taie in opt.Ceapa se toaca marunt si se inabusa in putin ulei. Cand este gata se adauga cartofii si verdeata tocata. Se condimenteaza si dupa 2-3 minute se pun intr-un vas termorezistent impreuna cu o canita cu apa.
+Etapa 3
+Punga se gaureste cu o scobitoare in vreo 5 locuri. Se introduce vasul cu carnea si cartofii in cuptorul dinainte incalzit la 185 grade si se lasa la rumenit aproximativ o ora.
+Etapa 4
+Friptura se serveste cu cartofii brutaresti alaturi si cu muraturi.</li>
+
+</random>
+</template>
+</category>
+<category>
+           <pattern>paste</pattern>
+           
+           <template>
+      <random>
+          <li>Ingrediente pentru doua portii de mancat pe saturate:
+1. 4 cotlete de porc
+2. 200 de gr paste (Farfalle)
+3. 3 linguri cu varf de masline fara samburi
+4. 3 linguri de mustar dulce
+5. 2 linguri otet
+6. 3-4 catei de usturoi
+7. 2 lingurite de cimbru
+8. 2 lingurite de busuioc
+Preparare
+Un fel de mancare gata-n 25 min pe ceas :) ! Nu-i asa ca te-am facut curioasa?
+
+Se amesteca mustarul, uleiul, otetul, cimbrul si busuiocul si se pune carnea de porc in acest amestec pentru 10 minute. Usturoiul de piseaza marunt, maslinele se taie rondele.
+
+Intr-un vas se pune 1 litru jumatate de apa la fiert, cu putina sare. Cand incepe sa clocoteasca se pun pastele, timp de 15 minute si se amesteca din cand in cand. Concomitent, intr-o tigaie, se pun la prajit bucatile de porc. Cand sunt rumenite, se adauga peste ele sosul in care au stat, plus jumatate de pahar de apa, maslinele si usturoiul pisat. Se pune capacul si se lasa la fiert inca 2-3 minute. Pastele se pun intr-un bol, peste ele se toarna sosul de la friptura si se amesteca bine. Acest fel de mancare se serveste cat e fierbinte. Sa ai pofta!
+
+Nota: pentru acest fel de mancare, Ama a fost cea care m-a inspirat, atata doar ca i-am adus modificari dupa gustul meu.</li>
+          <li>- 600 g carne de porc
+- 2 cepe
+- 1 morcov
+- 1 ardei gars
+- 250 g paste
+- 2 linguri pasta de rosii
+- sare, piper
+
+optional:
+- 1 lingurita de zahar
+- 2-3 catei de usturoi
+- foaie de dafin
+Preparare
+Etapa 1
+Carnea se taie cubulete mici si se pune la calit intr-o cratita cu ulei incins.Se amesteca continu pana isi schimba culoarea, atunci adaugam ceapa taiata bucatele mai mare.
+Etapa 2
+O lasam 2 minute dupa care punem ardeiul taiat cu bulete si morcovul dat pe razatoarea mica.Lasam sa fiarba la foc mic pana scade zeama, adaugam sare, piper, un pahar cu apa, acoperim si lasam sa fiarba inabusit la foc mic.
+Etapa 3
+Cand carnea este aproape gata punem si pasta de rosii, zaharul, foia de dafin, ustoroul si dam gust cu sare si piper daca mai este nevoie completam cu apa astfel nivelul apei sa fie cu 2 degete deasupra carnii.
+Cand a fiert carnea ingrosam sosul cu 2 linguri de faina dizolvate in apa rece, dam un clocot si oprim focul.
+Etapa 4
+Pastele se pun la fiert in apa care fierbe cu un praf de sare si o lingura de unt. cand apa fierbe bine oprim focul si acoperim oala , le lasam asa pana isi maresc volumul, apoi le scurgem si le clatim in apa rece.
+Totodata aceasta tocanita poate fi servita si cu altfel de garnituri cartofi natur, piure, orez...etc.</li>
+           <li>Ingrediente
+4 porții
+- 500 g carne de porc taiata cubulete,
+- 1 kg ciuperci champignon,
+- 100 g unt,
+- 2-3 linguri cu faina,
+- 200 ml smantana,
+- 2-3 catei de usturoi,
+- 1 lingura cu ulei,
+- sare,
+- piper negru macinat,
+- piper alb macinat,
+- marar verde tocat.
+Preparare
+Etapa 1
+Incinge wokul sau o tigai adanca si prajeste in uleiul incins bucatile de carne date prin faina. Cand au capatat crusta maronie, dale deoparte pe hartie absorbanta.
+Etapa 2
+Da untul, in bucati mari, prin faina.
+Etapa 3
+Apoi taie ciupercile in bucati mari si pune-le in wok- a avut foarte putine ciuperci, vreo 300 g. Lasa-le pana se inmoaie.
+Etapa 4
+Cand a scazut apa lasata de ciuperci, adauga untul infainat, acopera si lasa zece minute. Adauga sare, piper si usturoiul zdrobit.
+Etapa 5
+Mai lasa doua minute, amestecand. Adauga smantana si carnea, amestecand energic. Lasa doua minute pe foc, apoi serveste cu marar tocat fin.
+Etapa 6
+A fiert un pachet de paste spirale si le-a amestecat cu carnea si ciupercile. A pus smantana deasupra si am presarat marar.
+Etapa 7
+Mararul i-a dat un gust senzational, eu care eram obisnuita ca in paste sa folosesc doar origano.
+Etapa 8
+Se poate face sosul alb separat si mai fin amestecand smantana grasa cu 25g unt si 10 g amidon alimentar.</li>
+          <li>Ingrediente
+4 porții
+- 4 cotlete de porc
+- 200 de gr paste
+- 3 linguri cu varf de masline fara samburi
+- 3 linguri de mustar dulce
+- 2- linguri otet
+- 3-4 catei de usturoi
+- 2 lingurite de cimbru
+- 2 lingurite de busuioc
+Preparare
+Etapa 1
+Se amesteca mustarul, uleiul, otetul, cimbrul si busuiocul si se pune carnea de porc in acest amestec pentru 10 minute. Usturoiul de piseaza marunt, maslinele se taie rondele.
+Etapa 2
+Intr-un vas se pune 1 litru jumatate de apa la fiert, cu putina sare. Cand incepe sa clocoteasca se pun pastele, timp de 15 minute si se amesteca din cand in cand. Concomitent, intr-o tigaie, se pun la prajit bucatile de porc.
+Etapa 3
+Cand sunt rumenite, se adauga peste ele sosul in care au stat, plus jumatate de pahar de apa, maslinele si usturoiul pisat.
+Etapa 4
+Se pune capacul si se lasa la fiert inca 2-3 minute. Pastele se pun intr-un bol, peste ele se toarna sosul de la friptura si se amesteca bine. Acest fel de mancare se serveste cat e fierbinte.</li>
+           <li>Ingrediente
+2 porții
+- 1 ceapa mica
+- 1 ardei mic
+- sare, boia(piper)
+- ulei
+- carne de porc (cubulete)
+- 2linguri de bulion
+- spaghete pentru 2 portii.
+Preparare
+Etapa 1
+Taiem ceapa marunt si ardeiul si le punem la calit cu ulei si 1 ceasca de apa, urmand sa mai adaugam apa cand aceasta scade.
+Etapa 2
+Cand ceapa isi schimba culoarea punem bucatele de porc in tigaie, impreuna cu sarea, boia si apa cat sa parunda carnea.
+Etapa 3
+Lasam la foc mediu 10minute dupa care adaugam 2 linguri de bulion si lasam in continuare pe foc pana fierbe bine carnea, si urmarind sa nu scada sosul foarte mult.
+Etapa 4
+Cand este gata gustati si potriviti de sare.
+Acum nu mai ramane decat sa puneti spaghetele in farfurie si carnea cu sos peste, alaturi de un pahar de vin rosu.</li>
+
+</random>
+</template>
+</category>
+
+
+</topic>
+</aiml>

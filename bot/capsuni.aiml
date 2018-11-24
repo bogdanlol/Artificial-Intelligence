@@ -1,0 +1,459 @@
+<aiml>
+<category>
+      <pattern>capsuni</pattern>
+      <that>LPAREN "CIOCOLATA", "VANILIE", "CAPSUNI" RPAREN</that>
+      <template><think><set name="topic">capsuni</set></think>Ce ingredient secundar doresti sa aiba?("ou", "fructe", "faina")</template>
+</category>
+      <topic name = "capsuni">
+       <category>
+             <pattern>ou</pattern>
+             <that> LPAREN "OU", "FRUCTE", "FAINA" RPAREN</that>
+             <template>
+<random>
+<li>Miroase a vreme buna aici! Si cine spune „soare“, spune „capsune!“ Asadar, v-am pregatit o tarta imbracata in haina rosie
+Ingrediente
+10 porții
+1 aluat de tarta
+
+Pentru crema de patiserie :
+500 ml lapte
+4 galbenusuri
+125 gr zahar
+40 gr faina de porumb
+1 baton de vanilie
+500 gr capsune
+100 gr jeleu de capsune
+Materiale
+Forma de tarta cu diametrul de 28 cm
+Preparare
+Etapa 1 - Tarta cu capsuni si crema de patiserie
+
+Asezati aluatul de patiserie in forma si intepati-l cu o furculita. Coaceti 20 minute la 180° C
+Etapa 2 - Tarta cu capsuni si crema de patiserie
+
+Pentru crema de patiserie :
+Puneti laptele la fiert impreuna cu batonul de vanilie. Intre timp, puneti galbenusurile de ou intr-un castron si adaugati zaharul. Frecati pana devine galben-palid.
+Adaugati faina de porumb si amestecati bine.
+Etapa 3 - Tarta cu capsuni si crema de patiserie
+
+Odata ce laptele a fiert, se adauga incet peste amestecul de oua+zahar+ faina de porumb. Puneti totul in vas la foc mediu.
+Etapa 4 - Tarta cu capsuni si crema de patiserie
+
+Se amesteca in mod constant cu o lingura de lemn pana cand ajunge la consistenta dorita. Acest pas dureaza aproximativ 10 minute. Apoi lasati crema sa se raceasca si acopeririti cu folie de plastic pentru a preveni formarea unei pelicule.
+Etapa 5 - Tarta cu capsuni si crema de patiserie
+
+Dupa ce aluatul si crema s-au racit, se bate crema ca sa se umfle si se adauga peste aluatul copt.
+Etapa 6 - Tarta cu capsuni si crema de patiserie
+
+Se spala capsunele si se taie coditele. Apoi se taie in jumatate pe lungime si se aranjeaza frumos peste crema.
+Etapa 7 - Tarta cu capsuni si crema de patiserie
+
+Puneti jeleul de capsune pentru 30 secunde in cuptorul cu microunde, apoi se strecoara pentru a se elimina semintele.
+Etapa 8 - Tarta cu capsuni si crema de patiserie
+
+Adaugati usor jeleul strecurat peste capsune, apoi dati la rece pentru o cel jumatate de ora, inainte de servire.
+Etapa 9 - Tarta cu capsuni si crema de patiserie
+
+Gata, tarta dvs. cu capsune este gata de mancat!</li>
+<li>Ingrediente
+4 porții
+- 125 g unt
+- 75 g zahar pudra
+- 2 galbenusuri
+- 250 g faina
+- 2 linguri apa
+- 250 g mascarpone
+- 35 g zahar pudra
+- 200ml frisca lichida
+Preparare
+Etapa 1
+Untul si oualele trebuie sa fie la temperatura camerei. Se freaca untul taiat cubulete cu zaharul pudra.
+Etapa 2
+Se adauga galbenusul si faina si se framanta un aluat. Initial va fi sfaramicios dar devine treptat ca o plastilina. Daca e greu de lucrat cu el se pot adauga 1-2 linguri de apa.Se pune aluatul intr-o punga sau folie si se da la frigider pentru 2 ore.
+Etapa 3
+Zaharul si branza mascarpone se amesteca. Separat se bate frisca si se adauga la crema.
+Dupa ce a stat la frigider, se scoate aluatul si se lasa cam jumatate de ora la temperatura camerei, altfel nu se poate lucra cu el. Se intinde intr-o forma de tarta cu hartie de copt. potrivit cu sucitorul si dupa aceea cu degetele
+Etapa 4
+Se inteapa cu furculita inainte de a se da la cuptor, ca sa nu se umfle. O alta alternativa ar fi sa se acopere cu hartie de copt si sa se umple cu boabe de fasole . nu avut asa ca metoda cu intepatul a functionat perfect.
+Etapa 5
+Se da la cuptor, preancalzit la 180 grade, pana devine aurie (testul scobitoarei).Dupa ce se scoate din cuptor si se lasa la racit, se toarna crema mascarpone si se orneaza cu capsuni. Daca aveti capsuni proaspete bine, daca nu, cele din punga refrigerate merg de minune.
+</li>
+<li>Ingrediente
+6 porții
+Blat
+- 125 g margarina rama (sau unt)
+- 100 g zahar pudra
+- 2 lg de smantana
+- 2 galbenusuri
+- 250 g faina
+- razatura de lamaie
+- un praf de sare
+Crema
+- 2 plicuri budinca de vanilie
+- doua albusuri
+- 2 oua
+- 10 lg zahar
+- 700 ml lapte
+- 1/2 pac margarina Rama
+- esenta de vanilie
+Decor
+- 500 g capsuni
+- un plic tort gelee
+Preparare
+Etapa 1
+Margarina se mixeaza bine impreuna cu zaharul dupa care se adauga treptat galbenusurile de ou,cele 2 lg de smantana,razatura de lamaie,sarea iar la final se incorporeaza faina.Aluatul obtinut se lasa la rece pentru doua ore.
+Etapa 2
+Forma de tarta se unge cu putin ulei ,aluatul se intinde in foaie si se aseaza usor in forma de tarta.Se presaza bine,se inteapa cu furculita din loc in loc si se coace la foc potrivit.
+Etapa 3
+Cat tarta e la cuptor preparam crema astfel:
+Punem la fiert 500 ml lapte iar restul amestecam bine cu praful de budinca,zaharul,albusurile si ouale pana ce se formeaza o pasta omogena.Cand laptele a fiert incorporam amestecul in el si fierbem la foc potrivit (amestecand continuu) pana ce crema se ingroasa.
+Etapa 4
+Lasam la racit dupa care adaugam si margarina spumand crema cu ajutorul mixerului.
+Crema astfel pregatita se intinde pe suprafata tartei si decoram cu bucati de capsuni dupa imaginatia fiecaruia.Imbracam fructele intr-un strat de tort gelee preparat dupa instructiunile de pe plic.</li>
+<li>Ingrediente
+10 porții
+Aluat:
+- 300 g faina
+- 100 g unt
+- 125 g zahar
+- 1 plic zahar vanilat
+- 2 oua
+- 1 lingurita rasa praf de copt
+- 1 varf de sare
+- cca 25 g faina in plus
+Crema de vanilie
+- 1/2 l lapte
+- 75 gr faina
+- 25 gr amidon porumb
+- 6 galbenusuri
+- 150 gr zahar
+- 1 plic zahar vanilat/1 bat vanilie
+
+In plus:
+- 500-600 g capsuni proaspete
+Preparare
+Etapa 1
+Aluatul:
+A facut aluatul la robot dar se poate face si fara robot fara nici o problema.
+Punem in robot faina amestecata cu praful de copt si cernuta, untul rece de la frigider taiat in bucatele mici, ouale, zaharul, zaharul vanilat si un varf de cutit de sare. Framantam pana ce aluatul capata consistenta dupa care il invelim in folie de plastic si il lasam la frigider cca 1 ora.
+Etapa 2
+Daca facem aluatul fara robot, punem faina ntr-un vas iar in centru adaugam zaharul, un varf de sare, zaharul vanilat si untul rece. Framantam pana prinde consistenta dupa care adaugam cele doua oua batute putin cu furculita si amestecam pana obtinem un aluat compact pe care-l invelim in folie alimentara si il lasam la rece pentru 1 ora.
+Etapa 3
+Intre timp ne ocupam de crema:
+Punem la incalzit laptele impreuna cu batonul de vanilie sau zaharul vanilat.
+Separat, mixam ouale impreuna cu zaharul pentru 5 minute. Adaugam faina si amidonul si amestecam pana la inglobare.
+Etapa 4
+Turnam treptat laptele cald peste mixul de oua si trecem din nou pe foc mic, amestecul obtinut. Amestecam pana ce obtinem o crema cu o consistenta mai groasa. Luam crema de pe foc, o acoperim cu folie alimentara si o lasam sa se raceasca.
+Etapa 5
+Scoatem aluatul de la frigider si il rasturnam pe planul de lucru infainat bine si-l mai framanatm cu cca 25 g faina. Din cauza faptului ca aluatul contine praf de copt, devine pufos dupa statul la frigider asa ca ii mai adaugam cca 25 gr faina ca sa se poata intinde fara probleme. Intindem aluatul la o grosime de 0,5-0,6 mm. Va creste in cuptor deci foaia nu trebuie sa fie groasa.
+Etapa 6
+Tapetam o forma de tarta cu unt si faina,
+Punem aluatul in forma, il intepam cu o furculita din loc in loc si acoperim partea centrala cu o foaie de copt ca sa nu usuce in timpul coacerii,
+Coacem tarta la 180 grade, cuptor preincalzit pentru 20-25 minute. Cand marginile sunt aurii si se desprind singure de marginea formei, o scoatem din cuptor, o lasam sa se raceasca putin in forma , eliminam foaia de copt, o rasturnam pe o farfurie si o lasa sa se raceasca complet.
+Etapa 7
+Dupa ce s-a racit o umplem cu crema de vanilie rece, si o decoram cu capsunile taiate in doua pe lungime, O lasam la frigider cateva ore, cel mai bine peste noapte, dupa care o taiem si o servim. Putem sa o acoperim cu gelatina, dar mie imi place mai mult fara.
+Etapa 8
+Daca vreti, inainte de-a o servi puteti sa o pudrati cu putin zahar pudra. Daca vreti o crema mai pufoasa amestecati-o cu 100 gr frisca batuta bat. Consistenta va fi mai lejera si mai pufoasa.</li>
+<li>Ingrediente
+2 porții
+BLAT:
+- 140g unt
+- 100g zahar
+- 220g faina
+- 2 galbenusuri
+
+CREMA:
+- 3 galbenusuri
+- 250 ml lapte
+- 1 lingura faina
+- 70 g zahar
+- zahar vanilat
+
+ORNAT:
+- 1 plic praf frisca
+- 1 plic intaritor frisca
+- 1 conserva capsuni
+- 1 plic gelatina rosie
+Preparare
+Etapa 1
+Se framanta foarte bine aluatul.Se intinde in tava pentru tarta cu mainile.Tava se va tapeta cu faina. Se inteapa cu furculia si se baga la cuptor.
+Etapa 2
+Se amesteca toate ingredientele si se fierb la bain marin. Se lasa crema la racit si se adauga peste blatul rece.
+Etapa 3
+Se orneaza cu frisca intarita cu 1 pliculet de intaritor de frisca pe marginea tartei
+Etapa 4
+In centru se pun capsunile taiate pe jumatate si deasupra se toarna gelatina calda preparata cu siropul de la conserva , conform instructiunilor de pe pliculetul de gelatina.</li>
+
+</random>
+</template>
+</category>
+<category>
+      <pattern>fructe</pattern>
+      <that> LPAREN "OU", "FRUCTE", "FAINA" RPAREN</that>
+      <template>
+<random>
+<li>Ingrediente
+4 porții
+- un blat de tarta cumparat din comert.
+- 1 plic budinca de vanilie
+- 500 ml lapte
+- 4 linguri zahar
+- 1 plic gelatina rosie
+250 ml suc de fructe sau sirop din compot.
+-fructe
+- din compot sau proaspete
+Preparare
+Etapa 1
+Facem budinca conform instructiunilor de pe pachetul de budinca.
+Etapa 2
+Cand se raceste o turnam peste blat. Deaspupra punem fructele .
+Etapa 3
+Gelatina o facem conform instructiunilor de pe ambalaj dupa care o turnam peste tarta , al mijloc ea va curge singura peste toata tarta.</li>
+<li>Ingrediente
+4 porții
+- 100 g branza degresata
+- 1 banana
+- 300 g capsuni inghetate
+- 250 g lapte
+- 3 lingurite de zahar
+Preparare
+Etapa 1
+Doamne fereste sa puneti capsuni proaspete! Nici intr-un caz! Daca n-aveti gheata, sau daca n-aveti probleme cu amigdalele. S-au spalat paharele, s-au scos betigasele.
+Etapa 2
+S-a dres o ditamai poza vaselor in asteptarea licorii ungatoare de gat si creer.
+Etapa 3
+Apoi toate darurile naturii, poposite pe masa Povestelnicului, care curatate de coaja, care spalate au fost puse intr-un vas cilindtric si li s-a facut cunostinta cu laba cea grea si lucioasa a blenderului.
+Etapa 4
+Si iata ce a iesit. Intii cel mare, pe urma cel aratator si, in aceasta ordine de idei, pana la urma, mezinul.
+Etapa 5
+Cam aceasta a fost ordinea lingerii degetelor care au sters peretii interiori ai paharului golit cu sarguinta si tragere de inima.
+Etapa 6
+Daca scurgerea evenimentelor va provoaca un oarecare discomfort de orientare spatio-temporala, ignorati-l: pricopsiti-va cu fructe si puneti la treaba blenderul.</li>
+<li>Ingrediente
+6 porții
+- aluat foietaj
+- o foaie
+- 6 galbenusuri
+- 4oo ml lapte
+- 100 g zahar
+- un varf sare
+- 40 g faina
+- 1 lingura de esenta de vanilie
+- 70 g frisca batuta
+- capsuni / struguri/ zmeura / kiwi/ banane
+- sau toate la un loc
+- unt pt uns tava
+- 1 plic gelatina rosie sau transparenta- depinde de fructe
+Preparare
+Etapa 1
+E foarte important sa tineti aluatul in frigider pana in momentul in care il folositi. Ungeti bine tava de tarta cu unt si apoi puneti-o in frigider pt 10 min. Intindeti aluatul de foietaj cu sucitoarea in asa fel incat sa depaseasca marginile tavii. Puneti aluatul peste tava, aranjati-l in interior. Ca sa intepartati excesul de aluat treceti cu sucitoarea peste marginile tavii.
+Etapa 2
+Mai puneti si tava cu aluatul pentru 30 min in congelator (tava se poate pastra cam o saptamana asa in congelator). Intre timp incalziti cuptorul la 200 C si ungeti o folie de aluminiu cu unt.
+Etapa 3
+Scoateti tava din congelator, intepati aluatul cu o furculita, asezati folia de aluminiu cu untul pe aluat si deasupa puneti fasole/ orez ca sa nu se ridice foietajul. Dati la cuptor 15 min la 200 C.
+Etapa 4
+Daca s-a ridicat totusi aluatul, sau au trecut cele 15 min, scoateti tava din cuptor, indepartati fasolea si aluminiul, apasati aluatul si mai dati inca 10 min la cuptor la 160 C cu ventilatie in ultimele 5 min. Scoateti tava si lasati sa se raceasca.
+Etapa 5
+Crema de patiserie: Bateti celelalte 6 galbenusuri cu zaharul pana la culoarea galben pal. Adaugati treptat faina cernuta. Amestecand cu un tel adaugati si laptele in fir subtire. Puneti pe foc mediu si amestecati continuu pana cand se ingroase.
+Etapa 6
+Luati de pe foc si acoperiti suprafata cremei cu o folie de plastic unsa cu unt ca sa nu se formeze o "piele" si lasati-o sa se raceasca.
+Cand crema de patiserie e destul de rece, adaugati cu telul frisca batuta, rand pe rand cate o lingura.
+Etapa 7
+Asamblarea: Asezati foietajul pe platoul pe care urmeaza sa fie servit. Puneti crema peste si nivelati. Lasati la rece cat timp taiati fructele.
+Taiati fructele rondele sau in jumatati, depinde ce fel de fructe sunt si cum doriti sa arate. taiat capsuni in trei, strugurii in doua si bananele si kiwi in rondele. Aezati fructele una peste alta in cerc.
+Incalziti 200 g apa si turnati gelatina in ea, nu fierbeti fiind ca distrugeti gelatina. Turnati peste fructe doar cat sa stea apropiate, fara sa le acoperiti integral.</li>
+<li>Ingrediente
+7 porții
+- 250 g aluat de foietaj
+- 200 ml lapte
+- 3 oua plus un ou pentru uns patratelele de foietaj
+- 2 linguri de faina sau amidon
+- 3 linguri de zahar
+- 1 baton de vanilie
+- 250 ml frisca naturala
+- 2 linguri zahar pudra
+- capsuni
+Preparare
+Etapa 1
+Aluatul de foietaj se decongeleaza. Se taie in patrate de aproximativ 12x12 cm. Pentru a crea peretii patratelor, se va decupa un cadru de aproximativ 1 cm.
+Etapa 2
+Patratele se ung cu un ou batut amestecat cu o lingura de lapte, dupa care se suprapun, adica un patrat plus un cadru.
+Etapa 3
+Se dau la cuptorul preincalzit pentru 12 minute pe programul cu ventilatie.
+Etapa 4
+Pentru crema, se separa albusurile de galbenusuri. Cele 3 galbenusuri se amesteca cu faina si putin lapte, fara a se forma cocoloase.
+Etapa 5
+Laptele se da la incalzit cu zaharul si cu miezul batonului de vanilie. Se poate folosi si aroma de vanilie sau zahar vanilinat.
+Etapa 6
+Cand zaharul e topit, se poate adauga si amestecul de galbenus, amestecand mereu, pe foc domol, pana cand se ingroasa. Se lasa la racit, dupa care se amesteca usor cu albusul batut spuma.
+Etapa 7
+Asamblarea este foarte usoara:se ia un patratel de foietaj si se aplatizeaza centrul daca este prea balonat.
+Etapa 8
+Se umple cu crema din abundenta Se adauga frisca facuta din smantana pentru frisca si zahar pudra Si se orneaza cu capsunele frumusele.</li>
+<li>Ingrediente
+4 porții
+- un pachet de piscoturi
+- 2 l smantana dulce
+- 500 g zahar pudra (sau mai putin, in functie de gust)
+- 4 plicuri zahar vanilinat
+- 4 plicuri gelatina
+- o rodie
+- 1/2 kg struguri
+- capsuni din gem
+Preparare
+Etapa 1
+Se prepara panacotta dupa reteta de baza de aici, adica: se amesteca smantana cu zaharul pudra si cu zaharul vanilinat pe foc pana da in clocot. Se ia de pe foc si se adauga gelatina dizolvata in apa.
+Etapa 2
+Se lasa crema sa se mai raceasca si sa se mai intareasca timp in care se spala strugurii, se curata rodia si se taie piscoturile la unul din capete pentru a sta in picioare.
+Etapa 3
+Intr-o tava de tort cu margini detasabile se aseaza piscoturile pe contur iar pe fundul tavii se pun fructe si bucatele de piscoturi. Se toarna jumatate din crema cu mare atentie ca sa nu se strice marginile.
+Etapa 4
+Se mai pune un strat de fructe si piscoturi si se toarna si restul de crema. Atentie sa nu puneti crema mai sus de buza tavii pentru ca va curge. Piscoturile trebuie sa ramana cu varfurile vizibile, ca o coronita.
+Etapa 5
+Se pune la frigider cateva ore pana se intareste. Apoi se orneaza cu capsunile din gem.</li>
+
+</random>
+</template>
+</category>
+
+<category>
+      <pattern>faina</pattern>
+      <that> LPAREN "OU", "FRUCTE", "FAINA" RPAREN</that>
+      <template>
+<random>
+<li>Ingrediente
+4 porții
+Pentru umplutura iti trebuie:
+- 800 g capsuni
+- 20 cl frisca lichida
+- sucul unei lamai
+- 10 cl sirop de capsuni
+- 80 g zahar pudra
+- 1 lingurita de esenta de vanilie
+
+Pentru gogosi iti trebuie:
+- 50 g unt +unt cat o nuca pentru ungerea tavii
+- 2 oua
+- 75 g faina
+- 1 lingura de zahar
+- sare
+Preparare
+Etapa 1
+Pui 10 cl de apa la fiert cu unt,sare si zahar pudra.Cand fierbe,tragi de pe foc si adaugi faina.Amesteci repede-repede ca sa incorporezi faina,dupa care pui ouale unul cate unul.Cu o lingura iei din aluat si pui umplutura pe o tava unsa cu unt.Dai la cuptor pentru 10 minute,cu usa cuptorului intredeschisa si lasi apoi sa se raceasca.
+Etapa 2
+Amesteci frisaca si vanilia,pui zaharul pudra si amesteci totul.Tai gogosile si pui crema si capsunile.Mixezi restul capsunilor si amesteci pasta obtinuta cu sucul de lamaie si sirop.Adaugi la masa gogosile stopite sau puse in acest sos.Daca vrei,poti adauga si frisaca amestecata cu capsunile zdrobite.</li>
+<li>Miroase a vreme buna aici! Si cine spune „soare“, spune „capsune!“ Asadar, v-am pregatit o tarta imbracata in haina rosie
+Ingrediente
+10 porții
+1 aluat de tarta
+
+Pentru crema de patiserie :
+500 ml lapte
+4 galbenusuri
+125 gr zahar
+40 gr faina de porumb
+1 baton de vanilie
+500 gr capsune
+100 gr jeleu de capsune
+Materiale
+Forma de tarta cu diametrul de 28 cm
+Preparare
+Etapa 1 - Tarta cu capsuni si crema de patiserie
+
+Asezati aluatul de patiserie in forma si intepati-l cu o furculita. Coaceti 20 minute la 180° C
+Etapa 2 - Tarta cu capsuni si crema de patiserie
+
+Pentru crema de patiserie :
+Puneti laptele la fiert impreuna cu batonul de vanilie. Intre timp, puneti galbenusurile de ou intr-un castron si adaugati zaharul. Frecati pana devine galben-palid.
+Adaugati faina de porumb si amestecati bine.
+Etapa 3 - Tarta cu capsuni si crema de patiserie
+
+Odata ce laptele a fiert, se adauga incet peste amestecul de oua+zahar+ faina de porumb. Puneti totul in vas la foc mediu.
+Etapa 4 - Tarta cu capsuni si crema de patiserie
+
+Se amesteca in mod constant cu o lingura de lemn pana cand ajunge la consistenta dorita. Acest pas dureaza aproximativ 10 minute. Apoi lasati crema sa se raceasca si acopeririti cu folie de plastic pentru a preveni formarea unei pelicule.
+Etapa 5 - Tarta cu capsuni si crema de patiserie
+
+Dupa ce aluatul si crema s-au racit, se bate crema ca sa se umfle si se adauga peste aluatul copt.
+Etapa 6 - Tarta cu capsuni si crema de patiserie
+
+Se spala capsunele si se taie coditele. Apoi se taie in jumatate pe lungime si se aranjeaza frumos peste crema.
+Etapa 7 - Tarta cu capsuni si crema de patiserie
+
+Puneti jeleul de capsune pentru 30 secunde in cuptorul cu microunde, apoi se strecoara pentru a se elimina semintele.
+Etapa 8 - Tarta cu capsuni si crema de patiserie
+
+Adaugati usor jeleul strecurat peste capsune, apoi dati la rece pentru o cel jumatate de ora, inainte de servire.
+Etapa 9 - Tarta cu capsuni si crema de patiserie
+
+Gata, tarta dvs. cu capsune este gata de mancat!</li>
+<li>Ingrediente
+8 porții
+Pentru foaia de rulada:
+4 oua
+4 linguri faina
+40g unt topit
+un plic zahar vanilat
+un praf de sare
+2 linguri zahar
+
+Pentru umplutura:
+300g dulceata de capsuni
+zahar pudra
+Preparare
+Ouale le separam. Albusurile se bat spuma, dupa care se adauga treptat zaharul si zaharul vanilat(in ploaie). Dupa care se adauga galbenusurile frecate cu sare si continuam sa batem in continuare.
+Untul il topim si il lasam la racit. Dupa ce s-a racit il turnam peste compozitie. La final, adaugam faina cernuta, amestecam usor si turnam intr-o tava (nu prea mare) tapetata cu hartie pentru copt.
+Compozitia o intindem uniform si introducem tava in cuptorul incalzit.
+Dupa ce s-a copt foaia de rulada(cca. 35-40min) , se scoate din cuptor si rulam cu hartia. Se acopera cu un prosop de bucatarie si lasam sa se raceasca.
+Cand s-a racit, se desface hartia si se umple cu dulceata( pe care o lasam la temperatura camerei, pentru a putea fi intinsa cu usurinta), se ruleaza si o pudram din belsug cu zahar pudra.</li>
+<li>Ingrediente
+8 porții
+Pentru pandispan:
+5 oua
+8 linguri zahar
+8 linguri faina
+3 linguri apa
+2 linguri de ulei
+1/2 lingurita praf de copt
+un praf de sare
+
+Pentru umplutura:
+500g capsuni
+6 linguri zahar
+
+Pentru spuma (bezea):
+5 albusuri
+4 linguri de zahar
+foaie de copt
+unt pentru uns foaie de copt
+un praf de sare
+
+Pentru sosul de caramel:
+5 galbenusuri
+4 linguri zahar
+50 g unt
+Preparare
+Mai intai de toate pregatim pandispanul. Albusurile se bat spuma (tare) cu un praf de sare. Se adauga zaharul si se mixeaza pana obtinem o spuma densa si lucioasa. Galbenusurile frecate cele 2 linguri de ulei, se adauga peste albusuri si se amesteca usor, apoi punem faina amestecata cu praful de copt si omogenizam usor amestecand cu o spatula, cu miscari de jos in sus. Intr-o tava punem o foaie de copt iar peste turnam compozitia pentru pandispan, apoi dam totul la cuptor la foc mediu, pentru aproximativ 30 de minute, pana se rumeneste usor deasupra. Cand este copt il scoatem si il lasam sa se raceasca.
+
+In timpul in care pandispanul nostru este la cuptor pregatim capsunii. Capsunii se spala si se taie in 4, apoi se adauga 6 linguri de zahar. Amestecam cu zaharul dupa care ii punem pe foc si ii lasam sa fiarba, pana cand siropul de pe ei devine ca o gelatina. Se lasa sa se raceasca.
+
+Daca am terminat si cu capsunii si am scos si pandispanul de la cuptor este timpul sa pregatim spuma (bezeaua). Cele 5 albusuri se bat bine cu un praf de sare pana cand spuma sta pe paleta mixerului, apoi adaugam cele 4 linguri de zahar si mixam din nou pana se topeste zaharul. Pe dosul tavii punem o foaie de copt unsa bine cu unt si peste turnam spuma si o dam la cuptor aproximativ 30-40 de minute la foc mic (90 grade), pana cand spuma devine crem. Se scoate de la cuptor si o lasam sa se raceasca.
+
+Pana la racirea tuturor pregatim sosul de caramel. Cele 5 galbenusuri se freaca cu 2 linguri de zahar si se pun pe foc pe baie de aburi. Celelalte 2 linguri de zahar le caramelizam si daugam 50g unt. Trebuie ca si galbenusurile si zaharul caramelizat sa aiba aproximativ aceeasi temperatura cand le amestecam pentru ca daca una e calda si alta rece se intareste si nu mai obtinem sosul de caramel. Cand galbenusurile au dat un clocot adaugam zahar caramelizat fierbinte peste si invartim continuu. Mai lasam putin minunatul sos de caramel la baie de abur apoi il luam deoparte si il lasam si pe acesta sa se raceasca.
+
+Acum ca am terminat cu toate, urmeaza “asamblarea” prajiturii. Inainte de toate trebuie sa desfacem hartia de copt de sub bezea, tragand usor de ea, fara sa rupem bezeaua. Asta e pasul cel mai greu. Daca apar mici fisuri in bezea e ok, dar aveti grija sa nu-l rupeti! Trageti de hartie ca si cum ati dezlipi un autocolant! Asezati bezeaua pe platou. Acum ca am rezolvat problema bezelei trecem la etapa urmatoare. Peste pandispan punem capsunii, apoi punem bezeaua si apoi sosul de caramel. Se lasa aproximativ 30 de minute pentru ca pansipanul sa fie patruns de capsunii, asta in caz ca mai aveti rabdare, pentru ca in cazul meu ai mei au papat jumatate de tava imediat ce am terminat de ”asamblat” prajitura.</li>
+<li>Ingrediente
+8 porții
+Blat: 10 albusuri, 5 galbenusuri, 10 lg zahar, 2 lg mac, 1 lingurita pref de copt, 10 lg faina.
+Crema: 500 gr mascarpone, 5 galbenusuri, 5 lg zahar, 200 ml frisca.
+Jeleu: 300-400 gr capsuni, 10 gr gelatina, 2 lg zahar.
+Glazura: 200 gr ciocolata, 50 ml frisca, 50 gr unt.
+Preparare
+Batem albusurile spuma cu zaharul, adaugam cele 5 galbenusuri, macul si faina amestecata cu praful de copt, turnati intr-o tava cu hartie de copt si coaceti in cuptorul incalzit cca30-40 min, faceti proba cu scobitoarea, dupa coacere se scoate, se raceste si se taie in 2.
+Pt crema mixati galbenusurile cu zaharul, se ingroasa pe abur si se raceste, incorporati mascarpone in crema de oua... se bate frisca si se adauga la crema, se raceste... intre timp puneti 2 lg de zahar peste capsunile taiate sau intregi si puneti pe foc pana ce se topeste zaharul si capsunile lasa sirop... se hidrateaza gelatina in 4 lg apa si se topeste pe baie de abur, se adauga la capsunile caldute, se amesteca bine si se pune deoparte... asezam o foaie de blat, punem jumatate din crema, turnam jeleul de capsuni si racim pana ce se incheaga jeleul...dupa racire intindem restul de crema, punem blatul 2 si glazuram cu ciocolata topita cu frisca si unt... SAVURATI!</li>
+
+</random>
+</template>
+</category>
+</topic>
+</aiml>

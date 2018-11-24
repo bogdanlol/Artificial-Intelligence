@@ -1,0 +1,65 @@
+<aiml>
+    <category>
+  <template>Ok I will remember it.
+  <learn>
+    <category>
+      <pattern>CUM este <eval><star/></eval></pattern>
+      <template>
+        <eval> <star index="2"/></eval>.
+      </template>
+    </category>
+  </learn>
+  </template>
+</category>
+
+
+<category>
+    <pattern>vreau fel principal</pattern>
+    <template><srai>FEL ^</srai></template>
+    
+</category>
+
+
+
+
+
+<category>
+    <pattern>* * cu * ^</pattern>
+  
+  
+
+  <template><think><set name="topic"><star index="2" /></set></think>
+         <srai><star index ="3"/></srai>
+              
+                </template>
+           
+    </category>
+    
+   <category>
+       <pattern>surpriza</pattern>
+       <template>
+           
+           <think><set name="topic">
+               <random>
+               <li>pui</li>
+               <li>porc</li>
+               <li>peste</li>
+               </random>
+           </set></think>
+         
+         
+           <srai>
+               <random>
+               <li>orez</li>
+               <li>cartofi</li>
+               <li>paste</li>
+                </random>
+           </srai>
+          
+       </template>
+       
+   </category>
+   
+   
+   
+</aiml>

@@ -1,0 +1,333 @@
+<aiml>
+<category>
+      <pattern>PESTE</pattern>
+      <that>LPAREN "PUI", "PESTE", "PORC" RPAREN</that>
+      <template><think><set name="topic">peste</set></think>Ce ingredient secundar doresti sa aiba?("orez", "cartofi", "paste")</template>
+</category>
+
+   <topic name = "peste">
+       <category>
+             <pattern>orez</pattern>
+            
+             <template>
+        <random>
+            <li>Ingrediente
+4 porții
+- 150 g orez
+- o cutie ton in apa
+- cateva masline
+- 1 ceapa mica rosie
+- amestec mexican
+
+Dressing:
+- ulei masline
+- otet balsamic
+- sare, piper, ierburi aromate
+Preparare
+Etapa 1
+Orezul se pune la fiert in apa cu sare conform instructiunilor de pe cutie. Cand este gata se clateste sub jet de apa rece.
+Etapa 2
+Legumele se trag in tigaie cu putin ulei de masline si se lasa la racit.
+Etapa 3
+Ceapa se taie marunt, julien, rondele sau cum se nimereste.
+Etapa 4
+Maslinele se taie si ele rondele mici. Cateva se pot lasa intregi.
+Etapa 5
+Se amesteca toate ingredientele pentru salata si deasupra se toarna dressing-ul.
+Etapa 6
+Se poate servi ca si aperitiv sau ca si fel principal. E o masa completa si usoara pentru serile in care nu avem chef de mancaruri elaborate.</li>
+
+            <li>Ingrediente
+2 porții
+- o conserva ton in suc propriu
+- orez
+- ceapa verde
+- castraveciori murati
+Preparare
+Conserva de ton se scurge bine, ceapa si catravetii se taie dupa placul inimii, si se amesteca toate cu orezul.</li>
+             <li>Ingrediente
+2 porții
+- 4 fileuri de peste, folosit ton alb
+- 400 ml apa,sau cine are fond de peste
+- zeama de la 1/2 lamaie
+- 1 Lg(lingura ) unt
+- 1 Lg faina
+- 150 g branza proaspata de vaci,grasa
+- 2 Lg mustar a l'ancienne, cu boabe
+- sare,piper
+- 1/2 lg (lingurita ) ierburi de provence
+- patrunjel tocat
+- 1/4 lg zahar
+- 2 Lg vin alb dulce
+
+ptr orez :
+- 4 cesti de orez fiert,rece
+- 1 ceapa mare,taiata solzisori
+- ulei,sare,piper
+- fulgi de ardei iute sau 1 ardei iute rosu proaspat
+- 1 lg sos de peste (optional)
+- 1 Lg pasta de ardei iute
+Preparare
+Etapa 1
+Fileurile se stropesc cu sare si zeama de lamaie si se tin asa,30 de minute .Se fierbe apa sau supa de peste cu sare ,se adauga fileurile si se fierb la foc mic,cam 6 minute,sa nu se sfarame.
+Etapa 2
+Scoateti pestele si pastrati-l cald.Fierbeti in continuare zeama ramasa 4 minute,sa scada.Topiti untul la microunde si amestecati cu faina.
+Etapa 3
+Adaugati in apa care fierbe branza,mustarul,untul cu faina,zaharul si vinul, amestecati sa se omogenizeze,fierbeti pana se leaga sosul.La sfarsit potriviti de sare,piper si adaugati ierburile de provence si patrunjelul tocat.Aranjati pe farfurie pestele,stropiti-l cu sos si serviti alaturi de garnitura pe care o doriti. folosit aici orez picant.
+Etapa 4
+Pentru orez:
+caliti ceapa si ardeiul iute in putin ulei,adaugati orezul,amestecati si prajiti orezul,cam 5-6 minute,adaugati sosul de peste si pasta de ardei iute,mai prajiti un minut apoi serviti alaturi de peste.</li>
+            <li>Ingrediente
+4 porții
+- o conserva de ton,
+- o ceapa mare,
+- doi ardei ,
+- un zuchini,
+- 100 g.parmezan,
+- ulei de masline,
+- busuioc,sare,piper,patrunjel ,
+- orez,100 ml.vin alb sec si putina apase calesc legumele taiate,
+Preparare
+Apoi se adauga conserva de ton,apa, vinul alb cat sa acopere totul,nu prea multa,parmezanul si orezul,se condimenteaza si se lasa la fiert cca 30 de minute la foc mic,cand e gata se adauga patrunjel tocat.</li>
+             <li>Salata de orez este reteta ideala pentru picnic! Foarte usor de facut, va fi la fel de usor de transportat si luat la serviciu pentru un pranz satios.
+Ingrediente
+7 porții
+200 gr orez alb
+1 ceapa rosie
+2 tomate
+50 gr de castraverti murati
+280 gr de porumb
+140 de grame de ton
+
+Pentru sos:
+3 linguri maioneza
+3 linguri otet de vin roșu
+5 linguri ulei
+sare
+piper
+Preparare
+Etapa 1 - Salata de orez (usor si simplu)
+
+Gatiti orezul timp de 12 minute in apa clocotita sarata, apoi lasati-l sa se raceasca. Adaugati ceapa si rosiile taiate in cubulete.
+Etapa 2 - Salata de orez (usor si simplu)
+
+Adaugati castravetii murati tocati, porumbul si tonul faramitat.
+Etapa 3 - Salata de orez (usor si simplu)
+
+Sosul :
+Se amesteca toate ingredientele impreuna pentru a avea un sos fin.
+Etapa 4 - Salata de orez (usor si simplu)
+
+Adaugati-l peste salata de orez si amestecati bine.
+
+
+</li>
+
+</random>
+</template>
+</category>
+<category>
+            <pattern>cartofi</pattern>
+            
+            <template>
+       <random>
+           <li>-Intr-o tava puneti ulei de masline,asezati pestele taiat bucati,pe care l-ati sarat sipiperat pe ambele parti.printre peste "aruncati" usturoiul si o rosie taiata in patru sau rondele. Peste bucatile de peste asezati feliile de la o lamaie. Turnati in tava putina apa si dati la cuptor pentru cca 20 minute, la o temperatura de 150-160 grade. Dupa cele 20 de minute,dati drumul la grill, pentru inca 10 minute, pentru a se rumeni pestele.
+
+-In cea de-a-2-a tava, puneti cartofii taiati cuburi si amestacati-i cu ulei, sare, piper si rozmarin. De asemenea, aruncati ceilalti catei de usturoi, care v-au ramas. Feliati o lamaie si puneti peste cartofi si o rosie taiata in patru sau rondele. Puneti putina apa si dati la cuptor, la fel ca la peste procedati.
+
+PS: eu am pus amandoua tavile in acelasi timp in cuptor, dar desigur timpul de coacere al cartofilor este mai mare decat la peste.</li>
+           <li>Ingrediente
+2 porții
+- 7 cartofi medii
+- 1 macrou afumat sau peste marinat
+- 3 oua fierte
+- 2 ardei capia verzi
+- 1 ardei rosu
+- 1 ceapa mare rosie
+- masline
+- sare, piper
+- 1 salata verde
+- ulei de masline
+- zeama de lamaie
+Preparare
+Etapa 1
+Se fierb cartofii in coaja in apa cu sare, se lasa la racit si se taie felii. Se adauga ceapa taiata, maslinele, ouale, ardeiul si pestele.
+Etapa 2
+Se face un pat din salata verde taiata fasii si se aseaza toate ingredientele amestecate peste care pus in prealabil un dressing din ulei, zeama de lamaie, sare si piper.</li>
+            <li>Ingrediente
+4 porții
+- aprox. 600 g file de salau de Nil
+- cartofi curatati si taiati cubulete
+- 1 iaurt
+- 3-4 linguri faina
+- 1 lamaie
+- condimente pentru peste
+- "Let's dip verdeata"
+- verdeturi uscate (patrunjel, leustean, marar, etc)
+Preparare
+Etapa 1
+Punem cartofii la fiert in apa cu sare.Pregatim mai intai sosul din iaurt si verdeturi + plicul de "Let's dip verdeata" si il dam la frigider pana in momentul servirii, ca sa se intrepatrunda aromele.
+Etapa 2
+Taiem pestele bucati si il dam prin faina si le prajim in ulei incins, la foc mediu, pana capata o culoare aurie. Cand sunt gata,le scoatem si le punem pe o hartie absorbanta.
+Etapa 3
+Scurgem cartofii fierti de apa, ii punem in farfurie si presaram putina verdeata peste ei.Peste pestele prajit se stoarcea zeama de lamaie. Se serveste cu sosul de iaurt, pe care il turnam peste cartofii natur.</li>
+           <li>Ingrediente
+2 porții
+- 2 bucati de macrou
+- 1/2 kg cartofi
+- 1 capatana de usturoi
+- 1 mana de masline kalamata
+- 1 ceapa
+- Rozmarin proaspat si uscat
+- Curry
+- Boia dulce
+- Alte condimente de care doriti
+- Cimbru
+- Piper mozaic
+Preparare
+Etapa 1
+Pregatesc pestele cu o zi inainte. Se curata de intestine si urechi si se spala cu apa rece. Se sterge cu un prosop uscat, se condimenteaza pe toate partile si in burta, se unge cu ulei de masline si se pune la frigider astfel pestele isi va lua din aroma. A doua zi pregatim cartofii.
+Etapa 2
+Ii presaram cu condimente, punem usturoiul cu tot cu hainuta, maslinele, ceapa taiata julien si piperul boabe. Stropim cu putin ulei si amestecam cu mana pana intra bine condimentele in cartofi.
+Etapa 3
+Se pun in tava de la aragaz pe o hartie de copt. Se unge cu ulei o folie de aluminiu si se pune pestele. Se ruleaza folia si se strange la capete astfel incat sa nu se prelinga sosul pe dinafara.
+Etapa 4
+Se pun si pestii la cuptor sub tava cu cartofi. Pestii daca sunt mai mici se tin aproximativ 25 minute si daca sunt mai mari 40. Cartofii se scot cand sunt gata rumeniti.</li>
+            <li>Ai nevoie de
+
+5-6 cartofi
+
+4 fileuri de pește
+
+sare
+
+piper
+
+sare grunjoasă
+
+rozmarin
+
+1 ardei iute
+
+3-4 linguri ulei
+Preparare
+
+Cureți cartofii,îi tai bucăți și-i amesteci cu sare,piper,rozmarin tocat și ulei. Îi așezi într-o tavă,în care ai pus hârtie de copt,și-i dai la cuptor până când încep să se înmoaie.
+
+Condimentezi fileurile de pește cu sare grunjoasă și piper,după gust. Toci ardeiul iute,îl pui peste cartofi și așezi deasupra fileurile de pește. Mai ții tava la cuptor până când se pătrunde peștele.</li>
+
+</random>
+</template>
+</category>
+
+<category>
+            <pattern>paste</pattern>
+         
+            <template>
+       <random>
+           <li>Ingrediente
+4 porții
+- 300 g paste
+- 1 ceapa mica
+- 3 linguri de ulei
+- 120 gr de ton
+- 150 ml pasta de rosii
+- sare,piper
+- parmezan ras
+Preparare
+Etapa 1
+Intr-o oala punem la fiert apa pentru paste;cand a inceput sa clocoteasca punem sare si pastele.Fierbem al dente.
+Etapa 2
+Ceapa o tocam fin si o calim intr-o tigaie larga in cele 3 linguri de ulei de masline,cand a devenit translucida adaugam tonul scurs,pasta de rosii,saram si piperam dupa gust si fierbem 4-5 minute.
+Etapa 3
+Scurgem pastele si le amestecam in tigaie cu sosul de ton,presaram parmezan ras si servim imediat.</li>
+           <li>Ingrediente
+6 porții
+80 grame paste melcisori
+200 grame conserva de ton scursa de ulei/suc propriu
+1 morcov marime medie
+1 tulpina de telina tocata marunt
+80 grame maioneza
+2 linguri suc de lamaie
+3 castraveti lungi marime medie
+Sare
+Piper
+Preparare
+Etapa 1
+Fierbeti melcisorii conform instructiunilor de pe ambalaj, clatitii in apa rece, strecuratii si punetii intr-un castron. Adaugati tonul faramitat cu furculita.
+Etapa 2
+Curatati morcovul si dati-l pe razatoare, puneti-l in castronul cu ton si melcisori. Adaugati telina tocata marunt, maioneza, sucul de lamaie, sarea, piperul; amestecati bine ingredientele.
+Etapa 3
+Indepartati capetele castravetilor , taiatii pe jumatate in lungime si scobiti-le miezul, apoi umpletii cu compozitia de ton obtinut anterior. Castraveti umpluti cu ton, paste si legume se dau la frigider cel putin o ora inainte de a-i servi.</li>
+            <li>Ingrediente
+8 porții
+1ceapa mica tocata marunt
+50 grame unt
+1 lingura malai
+120 ml apa
+400 ml suc de rosii
+
+Diverse condimente:
+oregano, maghiran, etc.
+1 legatura patrunjel
+200 grame ton din conserva (scurs de ulei)
+250 grame paste fusilli
+Sare
+Piper
+
+Sosul alb cu spanac:
+1 ceapa mica tocata marunt
+50 grame unt
+2 linguri rase faina
+400 grame spanac tanar crud
+300 ml lapte
+200 grame barnza rasa (opriti si pentru topping)
+Preparare
+Etapa 1
+Incalziti cuptorul la 180 grade. Fierbeti pastele conform instuctiunilor de pe ambalaj, clatiti-le in apa, lasati-le la scurs pe strecuratoare.
+Etapa 2
+Topiti untul intr-o tigaie, caliti ceapa pana se inmoaie. Puneti malaiul in apa, adaugati sucul de rosii, apoi turnati acest amestec in tigaie, adaugati condimentele si lasati-le sa fiarba la foc mic 5 minute. Adaugati tonul, sarea si piperul; luati-le de pe foc.
+Etapa 3
+Topiti untul intr-o tigaie si caliti ceapa pana devine transparenta. Adaugati faina si amestecati continuu. Turnati treptat laptele si amestecati pana cand sosul devine suficient de gros. Adaugati spanacul tocat marunt si mai lasati pe foc 5-7 minute, adaugati apoi branza rasa.
+Etapa 4
+Ungeti cu ulei un vas Yena, puneti tonul, pastele, sosul de spanac si amestecati. Deasupra puneti branza rasa. Dati la cuptor 25-30 minute.</li>
+           <li>Ingrediente
+2 porții
+- 300 g paste,
+- doua conserve mici de ton in suc propriu,
+- 50 g porumb fiert din conserva,
+- o ceapa,
+- cateva masline negre si verzi fara samburi,
+- ulei de masline,
+- o jumatate de lamaie
+- sare si piper,
+- eventual salata verde pt ornament.
+Preparare
+Se amesteca pastele fierte si scurse, cu tonul scurs de zeama, cu porumbul, cu ceapa taiata rondele, maslinele, uleiul, sarea, piperul si zeama de lamaie.</li>
+            <li>Ingrediente
+4 porții
+- 200 g fusilli
+- 1 ardei rosu gras copt si taiat cubulete
+- 1 ceapa rosie taiata felii subtiri
+- 5 rosii cherry felii
+- 200 g ton
+
+Dressing:
+- 6 linguri ulei masline
+- 4 linguri otet vin alb
+- 3 linguri suc lima
+- 2 lingurite mustar
+- 1 lingurita miere
+- 5 lingurite busuioc
+Preparare
+Etapa 1
+Fierbeti pastele intr-o apa fierbinte cu sare.
+Etapa 2
+Pentru dressing:
+Amestecati toate ingredientele cu sare si piper, puneti pastele, ardeii, tonul, ceapa, rosiile si presarati busuioc. Lasati la rece putin apoi serviti cu lamaie si rucola.</li>
+
+</random>
+</template>
+</category>
+</topic>
+</aiml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>nu stiu</pattern>
+    <template>bine</template>
+</category>
+
+
+<category>
+    <pattern>nam habar</pattern>
+    <template><srai>nu stiu</srai></template>
+</category>
+
+</aiml>

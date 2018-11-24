@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+
+<category>
+    <pattern>Buna ^</pattern>
+    <template>
+        <random>
+<li> Salut. Scopul meu e de a sugera retete. Vrei sa gatim azi?</li>
+<li> Buna. Scopul meu e de a sugera retete. Vrei sa gatim azi?</li>
+<li> Hey. Scopul meu e de a sugera retete. Vrei sa gatim azi?</li>
+        </random>
+         </template>
+</category>
+
+<!-- Sinonim pentru Buna -->
+
+<category>
+    <pattern>Salut ^</pattern>
+    <template><srai> Buna ^ </srai></template>
+</category>
+
+<category>
+    <pattern>Hello ^</pattern>
+    <template><srai> Buna ^ </srai></template>
+</category>
+
+<category>
+    <pattern>Hey ^</pattern>
+    <template><srai> Buna ^ </srai></template>
+</category>
+
+ <category>
+      <pattern>da ^</pattern>
+      <that>^ VREI SA GATIM AZI</that>
+      <template>Ce tip de reteta doresti?("fel principal","desert")</template>
+</category>
+
+<category>
+      <pattern>Nu ^</pattern>
+      <that>^ VREI SA GATIM AZI</that>
+      <template>La revedere!</template>
+</category>
+
+<category>
+      <pattern>fel ^</pattern>
+     
+      <template>Ce ingredient principal doresti sa aiba?("Pui", "Peste", "Porc")</template>
+</category>
+
+<category>
+      <pattern>^ desert ^</pattern>
+      
+      <template>Ce ingredient principal doresti sa aiba?("Ciocolata", "Vanilie", "Capsuni")</template>
+</category>
+
+<category>
+      <pattern>pui</pattern>
+          <that>LPAREN "PUI", "PESTE", "PORC" RPAREN</that>
+      <template><think><set name="topic">pui</set></think>Ce ingredient secundar doresti sa aiba?("orez", "cartofi", "paste")</template>
+</category>
+   
+ 
+</aiml>

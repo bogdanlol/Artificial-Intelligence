@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+ <category>
+      <pattern>pui</pattern>
+      <that>LPAREN "PUI", "PESTE", "PORC" RPAREN</that>
+      <template><think><set name="topic">pui</set></think>Ce ingredient secundar doresti sa aiba?("orez", "cartofi", "paste")</template>
+</category>
+   
+   <topic name = "pui">
+       <category>
+             <pattern>orez</pattern>
+       
+             <template>
+        <random>
+  <li>  2-3 bucăți de piept de pui - gătit și făcut fâșii
+    650 g orez călit
+    2 linguri de ulei de susan
+    1 ceapă albă mică, tocată
+    220 g mazăre și morcov (decongelate)
+    2-3 linguri sos de soia
+    2 ouă bătute ușor
+    2 cepe verzi tocate (opțional)
+
+Mod De Preparare
+
+Extrem de gustos, incredibil de rapid, nesperat de ușor. Cam așa poți descrie, pe scurt, această rețetă de mai jos, regăsită în bucătăria asiatică. Pe gustul întregii familii, ieftină și sățioasă.
+
+    Taie transversal, asezonează cu sare și piper (poți utiliza și alte condimente, dacă dorești) și prăjește ușor (3-4 minute pe ambele părți) pieptul de pui. Dacă mai ai pui rămas de la altă masă sau pui de la rotisor, îl poți folosi pe acela. Separat, călește ușor orezul.
+    Încinge bine o tigaie mare (sau un wok dacă ai, e cel mai indicat). Toarnă uleiul de susan, apoi ceapa tocată, mazărea și morcovul și călește-le până își schimbă textura.
+    Dă, cu ajutorul unei spatule, într-o parte legumele călite și toarnă în cealaltă parte ouăle bătute. Amestecă ouăle în timp ce se prăjesc. Când s-au prăjit/închegat ușor, amestecă cu legumele călite.
+    Adaugă puiul și orezul călit peste conținutul tigăii/wok-ului. Toarnă sosul de soia. Amestecă și lasă la călit până se pătrund și se amestecă bine aromele. Spre final, dacă dorești, adaugă și ceapa verde tocată.
+    </li>
+    <li>Ingrediente:
+
+2 linguri ulei
+
+1 ceapa mare
+
+1 ardei capia/rosu
+
+1 morcov
+
+200 g orez
+
+500-600 g carne de pui
+
+sare, piper
+
+patrunjel verde
+
+Mod de preparare:
+
+Taiem ceapa si ardeiul marunt, morcovul cubulete. Intr-o cratita antiaderenta punem 2 linguri de ulei si legumele.
+
+pilaf de orez cu pui-preparare
+
+Le calim pana se inmoaie si isi elibereaza aromele. Adaugam orezul si „il prajim” cateva minute, amestecand incontinuu.
+
+pilaf de orez cu pui-preparare2
+
+pilaf de orez cu pui-preparare1
+
+Prajirea orezului are rolul de a absorbi ulterior lichid si de a obtine un pilaf cremos. Adaugam apa, cam de 4 ori mai multa decat cantitatea de orez si condimentele. Acoperim cu un capac si fierbem la foc mic, amestecand din cand in cand. Daca s-a evaporat lichidul incercam sa vedem daca bobul de orez este fiert, in caz contrar mai adaugam apa/supa calda si continuam fierberea. La final nu trebuie sa lasati sa se evapore tot lichidul, orezul absorbind apoi.
+
+Adaugam verdeata si potrivim gustul de sare.
+
+Separat prajim carnea in ulei, apoi adaugam peste orez 2 linguri din grasimea din tigaie, amestecam, apoi asezam bucatile de carne deasupra. Acoperim cu un capac si lasam sa se odihneasca 15 minute.</li>
+<li>
+Timpi de preparare
+
+    Timp de preparare: 50 min
+    Timp de gatire: 15 min
+    Gata in: 1 ore, 5 min
+
+Ingrediente
+
+    4 pulpe de pui
+    400 g orez
+    200 g mazăre congelată
+    1 ardei gras
+    2 linguri ulei
+    1 ceapă
+    600 ml supă de pui sau de legume
+    1 lingurita rasă de boia de ardei
+    sare
+    piper proaspăt măcinat
+
+Mod De Preparare
+
+1. Ardeiul gras se spală, se taie în jumătăţi şi se curăţă de seminţe. Pulpele de pui se curăţă, se spală, se taie în jumătăţi şi se tapetează cu un şervet absorbant să se usuce. Se condimentează cu sare, piper şi boia şi se lasă deoparte.
+
+2. Ceapa tocată mărunt se căleşte puţin în ulei. Se adaugă orezul şi se amestecă uşor cu o lingură de lemn, până ce orezul devine sticlos. Se stinge cu supa de legume fierbinte, se adaugă bucăţile de carne, se acoperă cu un capac şi se lasă să fiarbă, la foc mic, jumătate de oră.
+
+3. Se adaugă ardeiul gras tăiat cubuleţe şi mazărea, se amestecă puţin şi se pune în cuptorul încins, la foc potrivit, 10-15 minute. Se mai poate adăuga puţină supă sau apă, dacă orezul a absorbit tot sosul.</li>
+<li>Ingrediente
+4 porții
+4 copane de pui
+2 cepe mijlocii
+cate un  ardei gras rosu si verde
+1 conserva rosii
+250 gr orez
+500 ml supa (sau 500 ml apa in care se adauga 1-2 lingurite de delikat)
+sare, piper, boia dulce (iute).
+1 legatura patrunjel.
+Preparare
+Se incalzeste cuptorul la 200 grade C.
+Se spala copanele, se sterg si se freaca cu sare, piper, usturoi (pisat) si boia dulce. Puneti-le intr-o tava unsa si lasatile 20 minute la cuptor.
+Se curata ceapa si se toaca fin.
+Se curata ardeii grasi si se toaca (nu foarte marunt).
+Se toaca 1/2 legatura de patrunjel.
+Rosiile se pun la scurs.
+Se scot copanele, se adauga in locul lor orezul, legumele, supa si patrunjelul.
+Se condimenteaza cu sare, piper si boia dulce sau iute.
+Le punem pe foc sa dea un clocot, apoi se introduc la cuptor pentru 30 minute.
+Se orneaza cu patrunjelul ramas.</li>
+<li>
+    Ingrediente
+2 porții
+Ingrediente pentru 2 porţii:
+300 gr. ficat de pui
+2 buc. şalote (sau o ceapă mică)
+1 lingură pastă de roşii
+150 ml vin roşu sec
+50 ml supă de legume (pentru ficat)
+400 ml supă de legume (pentru orez)
+125 gr. orez
+1/2 ceapă
+1 morcov
+1/2 buc. ardei gras verde
+4 linguri ulei
+sare
+piper
+puţină nucşoară
+Preparare
+Se pregătesc ingredientele pentru pilaf: şalotele se curăţă şi se toacă mărunt, morcovul se curăţă şi apoi se dă prin răzătoarea mică, iar ardeiul gras se taie în cubuleţe mici.
+
+Se încălzesc 2 linguri ulei în care se adaugă şalotele se călesc. Se adaugă apoi morcovul şi ardeiul gras. Se lasă să se prăjească 2-3 minute. Se adaugă apoi orezul. Se acoperă orezul cu vreo 200 ml de supă de legume şi se lasă să fiarbă la foc mic. Se învârte destul de des pentru a nu se arde. Supa trebuie să fie fierbinte, pentru a nu întrerupe procesul de fierbere al orezului. Când orezul a absorbit lichidul, se adaugă restul de supă de legume treptat, până când orezul e fiert. Se condimentează după gust cu sare, piper şi nucşoară.
+
+Pentru ficat: se curăţă ficatul, se spală bine şi se uscă cu un prosop de bucătărie. Ceapa se toacă mărunt.
+
+Într-o tigaie se încălzesc 2 linguri de ulei. Se căleşte ceapa, iar apoi se adaugă ficatul de pui. Se prăjeşte bine pe toate părţile. Se adaugă apoi pasta de roşii şi se amestecă bine. Se stinge cu vinul roşu şi se lasă să fiarbă până când vinul scade la o treime. Se adaugă apoi 50 ml supă de legume fierbinte şi se lasă încă 5 minute să fiarbă la foc mic.
+
+Se serveşte cu pilaful de orez. Ca garnitură se pot folosi şi paste sau cartofi piurée.</li>
+    </random>
+</template>
+        </category>
+         <category>
+             <pattern>CARTOFI</pattern>
+            
+             <template>
+                 <random>
+                     <li>
+                             Rețete
+    Mancare de cartofi cu pui la cuptor.
+
+
+Felul principal
+4 porții
+30 min
+30 min
+Foarte ușor
+Share on:
+Adaugă la favorite
+Trimite această rețetă unui prieten
+Adresează o intrebare autorului
+Printează pagina
+Ingrediente
+4 porții
+- carne de pui
+- 1 kg cartofi
+- 2 cepe
+- 1 morcov
+- un ardei gras
+- suc de rosii (bulion, pasta de tomate)
+- boia de ardei dulce
+- foi de dafin
+- sare, piper
+Preparare
+Etapa 1
+Carnea se pune la prajit intr-o tigaie cu putin ulei. Se toarna cate o cescuta de apa fierbinte din cand in cand, pana cand carnea este facuta.
+Etapa 2
+Se scoate pe o farfurie iar in tigaie se pune ceapa taiata marunt morcovul ras si ardeiul tocat. Se pune si bulionul, condimentele si se mai lasa pe foc 10 minute.Cartofi se curata si se taie mai mari.
+Etapa 3
+Intr-o tava se aranjeaza carnea, cartofii si prajeala. Se mai pune apa (fierbinte), se potriveste de sare si restul condimentelor si se da la cuptor la foc potrivit pentru 1 ora.Se serveste cu muraturi, ardei iute, ceapa dupa pofte!
+                         </li>
+                         <li>
+                                 
+  
+Felul principal
+6 porții
+30 min
+20 min
+Foarte ușor
+Share on:
+Adaugă la favorite
+Trimite această rețetă unui prieten
+Adresează o intrebare autorului
+Printează pagina
+Ingrediente
+6 porții
+- 500 g cartofi rosii, din cei nefainosi
+- o ceapa
+- 500 g ficatei de pui
+- 2 linguri faina
+- ulei
+- sare, piper, boia dulce
+Preparare
+Etapa 1
+Cartofi se curata se taie cubulete si se pun la fiert in apa cu sare.Ceapa o taiem marunt si o punem la calit in ulei incins, o lasam pana devine traslucida si punem boiaua, amestecam bine. Punem si cartofii scursi de apa in care au fiert. Amestecam usor si dam deoparte.
+Etapa 2
+Ficateii spalati si curatati de pielite se taie cubulete , ii tavalim prin faina si punem intr-o cratita cu ulei incins. Amestecam usor sa nu se prinda de fund si completam cu putina supa sau apa, cat si acopere. Ii lasam sa fiarba inabusit 10 minute, le dam gust cu sare si piper.
+Cine doreste poata sa puna si usturoi .
+                         </li>
+                          <li>
+    Ingrediente
+4 porții
+- pui
+- 3 cepe
+- 3-4 rosii coapte si decojite
+- 5-6 catei de usturoi
+- un pic cimbru,piper,sare,
+-1 foaie dafin toate dupa gust
+Preparare
+Etapa 1
+Calim puiul apoi il scoatem pe o farfurie.Punem ceapa la calit cu usturoiul,apoi adaugam rosiile taiate cubulete.Adaugam putina apa si mirodeniile
+Etapa 2
+Lasam putin la fiert,punem puiul si dam ostropelul la cuptor 30 min si mai adaugam 2 linguri bulion.
+Etapa 3
+Varianta de ostropel pentru copii fara prajeala:De cele mai multe ori fac ostropelul in urmatorul fel pentru ca pot sa-l dau fara nici o problema Lizucai.
+Etapa 4
+Fierb puiul,iau spuma si adaug toate ingredientele de mai sus.In plus mai adaug fata de reteta de mai inainte, un morcov taiat feliute subtiri.
+Etapa 5
+Sosul nu trebuie sa fie foarte subtire.Optional dam ostropelul la cuptor 30 min.
+                         </li>
+                         <li>
+ Ingrediente
+4 porții
+- 1 pui
+- 1.5 kg condimente pentru pui
+- 1 sticla de bere sare
+- vegeta
+- piper dupa gust
+- 50 g usturoi
+- 750 g cartofi
+- 250 ml ulei
+Preparare
+Etapa 1
+Se curata puiul bine si se pregateste pentru a fi introdus in cuptor. Se da cu sare, se unge cu putin ulei si mirodeniile de pui (ghimbir, oregano, rozmarin,nucsoara,cimbru).
+Etapa 2
+Se fixeaza puiul pe o sticla de bere umpluta doar pe jumatate (cu bere sau puneti apa). Se introduce puiul in cuptor pe o tava avand grija sa-l rotiti din cand in cand pentru a se rumeni uniform.
+Etapa 3
+Daca se incinge tava prea tare puteti pune din cand in cand putina apa in aceasta.Pregatiti apoi cartofii pai. Se aseaza puiul pe un platou alaturi cu cartofii. Se serveste cald cu mujdeiul de usturoi.
+                         </li>
+                          <li>
+ Ingrediente
+2 porții
+- artofi
+- suc de rosii sau bulion
+- 3-4 catei de usturoi
+- 1 ardei gras
+- 2 cepe mai mici
+- condimente(sare, piper, boia de ardei dulce
+si iute, ienibahar, o foaie de dafin)
+- leustean
+Preparare
+Etapa 1
+Cartofii se curata se taie cuburi si se pun la fiert in apa cu sare.Ceapa si ardeiul se toaca, se calesc in ulei pana cand ceapa devine transparenta si apoi se pune sucul de rosii.Cand cartofii sunt aproape fierti se pun intr-o tava si peste se pune sosul pregatit.
+Etapa 2
+Se presareaza cu sare ,piper, boia, ienibahar, usturoiul tocat ,foaia de dafin si se da la cuptor pana cand se rumenesc apoi se scot din cuptor si se presara leusteanul proaspat tocat.
+Etapa 3
+In tava se mai poate pune sunculita afumata.Cartofii astfel obtinuti se pot servii ca garnitura ,alaturi de friptura sau ca atare cu salata de varza.Friptura de pui pulpe si piept de puisare piper si boia de ardei dulce(sau iute)
+Etapa 4
+Se dezoseaza carnea se taie bucati se condimenteaza cu sare, piper,boia si se prajeste in ulei.
+                         </li>
+                         
+                     </random>
+                     </template>
+                     </category>
+                     
+                     <category>
+             <pattern>PASTE</pattern>
+            
+             <template>
+                 <random>
+                 <li>Ingrediente
+6 porții
+1 pachet farfalle
+300 gr broccoli
+1 conserva mica mazare (sau mazare verde)
+400 gr piept de pui
+
+Sos alb:
+2 linguri faina
+60 gr unt
+2 linguri smantana
+500 ml lapte
+sare
+piper
+parmezan (optional)
+Preparare
+Etapa 1
+Fierbem pastele cca 8 minute apoi le dam intr-un jet de apa rece si le punem intr-un castron incapator.
+
+In timp ce fierbem pastele putem sa oparim si broccoli (sau ii putem face pe abur), doar 7 minute, altfel se vor inchide la culoare. ii scurgem bine de apa si ii punem peste paste.
+
+Pieptul de pui sau pulpele, le dam cu sare si piper sau cu condimente pentru pui si le frigem intr-o tigaie teflonata pana devin usor aurii.
+
+Daca folosim mazare congelata, o fierbem si pe aceasta separat. O scurgem bine de apa si o adaugam peste paste.
+Etapa 2
+Sosul alb:
+
+De fapt acest sos este un sos bechamel si se face foarte usor.
+
+Intr-o craticioara topim untul si punem apoi faina amestecand rapid sa se omogenizeze. Turnam apoi treptat laptele cald peste faina si amestecam cu ajutorul unui tel pana se omogenizeaza.
+
+Lasam sa fiarba la foc mic (mestecand continuu) aprox. 7-8 minute. Sosul trebuie sa aiba o consistenta cremoasa dar nu foarte gros (ca la ciulama) el trebuie sa fie mai lichid. Asezonam cu sare si piper (daca aveti piper alb ar fi ideal, ii va da o savoare aparte).
+
+Tragem craticioara de pe foc si lasam sosul sa se racoreasca putin apoi adaugam smantana.
+
+Amestecam pastele cu legumele, carnea si cu sosul alb, asezonam cu sare si piper dupa gust iar deasupra putem sa presaram parmezan ras.
+
+Este un fel de mancare rapid, nu dureaza mai mult de 30 de minute sa il preparati, usor si delicios!
+
+Pofta buna!</li>
+                 <li>Ingrediente
+4 porții
+- o ceapa rosie
+- 2 catei usturoi
+- 100 gr cascaval
+- busuioc
+- sare
+- piper
+- 300 g smantana
+- un piept de pui
+- 50 ml lapte
+Preparare
+Etapa 1
+Intr-o lingura de unt se pune la calit ceapa tocata marunt impreuna cu usturoiul zdrobit. Se lasa 1 minut si se adauga pieptul de pui taiat cubulete.
+Etapa 2
+Se rumenesc bucatile , frumos, pe toate partile apoi se adauga smantana si laptele. Se lasa la foc mic 7-8 minute.
+Etapa 3
+Se adauga cascavalul taiat bucati, busuiocul, sare si piper. Se lasa pana ce se topeste cascavalul si se opreste focul.
+Etapa 4
+Pastele se fierb conform timpului indicat pe punga , in apa clocotita cu sare.
+Etapa 5
+Se pun in strecuratoare si se trec pe sub jetul de apa rece.
+Etapa 6
+Se aseaza paste in farfurie si deasupra pieptul de pui cu sos.</li>
+                 <li>Ingrediente
+4 porții
+- 400 g paste fainoase,
+- sare,
+- piper
+- boia
+- 300 g smantana
+- 500 g piept de pui,
+- o capatana usturoi
+- verdeata
+Preparare
+Etapa 1
+Se fierb pastele in apa multa cu sare, se scurg printr-o strecuratoare. Intre timp, se curata de pielita pieptul de pui, se taie cubulete si se rumeneste in tigaia de teflon sau pe gratar.
+Etapa 2
+Observati ca nu folosesc grasimi,decat. smantana. Se acopera tigaia cu un capac, se lasa sa se rumeneasca putin, se gusta de sare si se potriveste gustul dupa preferinta.
+Etapa 3
+Apoi se toarna peste paste. Usturoiul zdrobit bine se amesteca in smantana si se adauga peste carne si paste.
+Etapa 4
+Se amesteca usor,eventual mai potiviti gustul condimentand,adaugand verdeata .</li>
+                 <li>Ingrediente
+2 porții
+- 1 piept de pui
+- 450 g amestec de legume mexican
+- 1 ceapa
+- 2 rosii
+- ulei
+- sare , piper, boia
+Preparare
+Etapa 1
+Amestecul de legume mexican se pune la fiert in apa clocotita, cu sare, dupa care se scurge si se da deoparte.Pieptul de pui se taie in cubulete .
+Etapa 2
+Ceapa maruntita se pune la calit, dupa care se adauga si cele doua rosii maruntite.
+Peste se adauga si pieptul de pui, dupa care se condimenteaza si se acopera cu o ceasca de apa.
+Etapa 3
+Se lasa pe foc, pana cand carnea este moale. Din cand in cand se mai poate completa cu apa.Cand carnea este fiarta, se adauga amestecul mexican
+si se mai fierbe pentru vreo 5 minute, dupa care este gata .
+Etapa 4
+Se poate servi ca si garnitura paste fusilli, dar merge foarte bine si cu piure de cartofi.Se poate garnisi cu putina smanatana.</li>
+                 <li>Ingrediente
+4 porții
+- 1 lingurita de ulei
+- 300 g piept de pui fara piele, maruntit
+- 1 ceapa, tocat
+- 2 catei de usturoi, tocati
+- 1 / 2 lingurita de piper negru
+- 2 linguri faina
+- 300 ml lapte
+- 1 pachet paste fainoase
+- 100 g spanac
+- 1 / 3 ceasca busuioc tocat
+- 1 ardei dulce rosu, cuburi
+- 3 linguri de suc proaspat de lamaie
+- 2 ceape verzi, tocate
+- sare
+Preparare
+Etapa 1
+Se prajesc bucatile de piept de pui, se adauga ceapa (nu ceapa verde), usturoi si piper negru,se prajeste la foc mediu, aproximativ 5 minute, se stropesc cu faina, se mai lasa 1 minut.
+Etapa 2
+Se adauga laptele si se lasa la fiert aproximativ 5 minute. Intre timp, se fierb pastele si spanacul, se scurg si se adauga la amestecul de pui. Se adauga ardei rosu, busuioc, suc de lamaie si ceapa verde. Se amesteca bine.</li>
+                 </random>`
+                 </template>
+                 </category>
+   </topic>
+</aiml>
